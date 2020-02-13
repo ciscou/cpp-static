@@ -1,16 +1,18 @@
 <!doctype html>
-<html>
+<html class="no-js" lang="<%= current_page.data.lang || "es" %>">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "Middleman" %></title>
-    <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "site" %>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= current_page.data.title || "Cerámica Padilla Padilla" %></title>
+    <%= stylesheet_link_tag "app" %>
   </head>
+
   <body>
-    <%= yield %>
+    <div class="grid-container">
+      <%= yield %>
+    </div>
+
+    <%= javascript_include_tag "app" %>
   </body>
 </html>
