@@ -13,11 +13,11 @@
   <body>
     <nav role="navigation">
       <ul id="overlay-nav-menu" class="overlay-nav-menu">
-        <li><a href="#" class="is-active">Inicio</a></li>
-        <li><a href="#">Catalogo</a></li>
-        <li><a href="#">Quienes somos?</a></li>
-        <li><a href="#">Donde estamos?</a></li>
-        <li><a href="#">Contacte con nosotros?</a></li>
+        <li><a href="/fr" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Accueil</a></li>
+        <li><a href="/fr/catalogue" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Catalogue</a></li>
+        <li><a href="/fr/qui-sommes-nous" class="<%= "is-active" if current_page.data.active_tab == "who" %>">Qui sommes-nous ?</a></li>
+        <li><a href="/fr/ou-sommes-nous" class="<%= "is-active" if current_page.data.active_tab == "where" %>">Ou sommes-nous ?</a></li>
+        <li><a href="/fr/contactez-nous" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contactez-nous</a></li>
       </ul>
       <a data-toggle-menu class="overlay-nav-menu-toggle open" href="#overlay-nav-menu"><i class="fi-list"></i></a>
       <a data-toggle-menu class="overlay-nav-menu-toggle close" href="#overlay-nav-menu"><i class="fi-x"></i></a>
@@ -25,11 +25,11 @@
     <header class="subnav-hero-section">
       <h1 class="subnav-hero-headline">Cerámica Padilla Padilla</h1>
       <ul class="subnav-hero-subnav">
-        <li><a href="#" class="is-active">Inicio</a></li>
-        <li><a href="#">Catalogo</a></li>
-        <li><a href="#">Quienes somos?</a></li>
-        <li><a href="#">Donde estamos?</a></li>
-        <li><a href="#">Contacte con nosotros</a></li>
+        <li><a href="/fr" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Accueil</a></li>
+        <li><a href="/fr/catalogue" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Catalogue</a></li>
+        <li><a href="/fr/qui-sommes-nous" class="<%= "is-active" if current_page.data.active_tab == "who" %>">Qui sommes-nous ?</a></li>
+        <li><a href="/fr/ou-sommes-nous" class="<%= "is-active" if current_page.data.active_tab == "where" %>">Ou sommes-nous ?</a></li>
+        <li><a href="/fr/contactez-nous" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contactez-nous</a></li>
       </ul>
     </header>
 

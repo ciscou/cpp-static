@@ -103,6 +103,7 @@
       -ms-flex-pack: center;
           justify-content: center;
   height: 300px;
+  margin-bottom: 24px;
 }
 
 .subnav-hero-section .subnav-hero-headline {

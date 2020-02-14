@@ -3,3 +3,6 @@ en:
   hello: "Hello"
   paths:
     catalog: "catalog"
+    who: "who-are-we"
+    where: "where-are-we"
+    contact: "contact-us"
