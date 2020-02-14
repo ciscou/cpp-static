@@ -1,3 +1,5 @@
 ---
 fr:
-  hello: "Salut"
+  hello: "Bonjour"
+  paths:
+    catalog: "catalogue"
