@@ -66,8 +66,12 @@ helpers do
     category["#{I18n.locale}_description"].presence || category["es_description"]
   end
 
+  def category_slug(category)
+    category_name(category).parameterize
+  end
+
   def category_param(category)
-    [category.id, category_name(category).parameterize].join("-")
+    [category.id, category_slug(category)].join("-")
   end
 
   def product_name(product)
@@ -76,6 +80,14 @@ helpers do
 
   def product_description(product)
     product["#{I18n.locale}_description"].presence || product["es_description"]
+  end
+
+  def product_slug(product)
+    product_name(product).parameterize
+  end
+
+  def product_param(product)
+    [product.id, product_slug(product)].join("-")
   end
 end
 
