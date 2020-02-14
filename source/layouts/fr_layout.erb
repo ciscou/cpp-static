@@ -1,0 +1,43 @@
+<!doctype html>
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= current_page.data.title || "Cerámica Padilla Padilla" %></title>
+    <%= stylesheet_link_tag "foundation" %>
+    <%= stylesheet_link_tag "foundation-icons" %>
+    <%= stylesheet_link_tag "app" %>
+  </head>
+
+  <body>
+    <nav role="navigation">
+      <ul id="overlay-nav-menu" class="overlay-nav-menu">
+        <li><a href="#" class="is-active">Inicio</a></li>
+        <li><a href="#">Catalogo</a></li>
+        <li><a href="#">Quienes somos?</a></li>
+        <li><a href="#">Donde estamos?</a></li>
+        <li><a href="#">Contacte con nosotros?</a></li>
+      </ul>
+      <a data-toggle-menu class="overlay-nav-menu-toggle open" href="#overlay-nav-menu"><i class="fi-list"></i></a>
+      <a data-toggle-menu class="overlay-nav-menu-toggle close" href="#overlay-nav-menu"><i class="fi-x"></i></a>
+    </nav>
+    <header class="subnav-hero-section">
+      <h1 class="subnav-hero-headline">Cerámica Padilla Padilla</h1>
+      <ul class="subnav-hero-subnav">
+        <li><a href="#" class="is-active">Inicio</a></li>
+        <li><a href="#">Catalogo</a></li>
+        <li><a href="#">Quienes somos?</a></li>
+        <li><a href="#">Donde estamos?</a></li>
+        <li><a href="#">Contacte con nosotros</a></li>
+      </ul>
+    </header>
+
+    <div class="grid-container">
+      <%= yield %>
+    </div>
+
+    <%= javascript_include_tag "foundation" %>
+    <%= javascript_include_tag "app" %>
+  </body>
+</html>
