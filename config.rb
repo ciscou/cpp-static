@@ -39,11 +39,15 @@ page '/fr/*', layout: 'fr_layout'
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
+helpers do
+  def category_name(category)
+    category["#{I18n.locale}_name"].presence || category["es_name"]
+  end
+
+  def category_description(category)
+    category["#{I18n.locale}_description"].presence || category["es_description"]
+  end
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings

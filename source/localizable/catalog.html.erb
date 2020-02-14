@@ -3,4 +3,8 @@ title: Cerámica Padilla Padilla
 active_tab: catalog
 ---
 
-<%= t :hello %> World
+<% data.categories.each do |category| %>
+  <h2><%= category_name category %></h2>
+
+  <%= simple_format category_description category %>
+<% end %>
