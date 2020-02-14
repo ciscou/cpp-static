@@ -1,0 +1,12 @@
+---
+title: Cerámica Padilla Padilla
+active_tab: catalog
+---
+
+<% data["category_#{category["id"]}_products"].each do |product| %>
+  <h2><%= product_name product  %></h2>
+
+  <img src="<%= product["picture"]["small"]["url"] %>">
+
+  <%= simple_format product_description product %>
+<% end %>

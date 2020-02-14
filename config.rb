@@ -35,6 +35,24 @@ page '/fr/*', layout: 'fr_layout'
 #   },
 # )
 
+data.categories.each do |category|
+  category_name = category["en_name"].presence || category["es_name"]
+  category_param = [category["id"], category_name.parameterize].join("-")
+  proxy "/en/catalog/#{category_param}/products/index.html", "/localizable/category_products.en.html", locals: { category: category }
+
+  category_name = category["es"].presence || category["es_name"]
+  category_param = [category["id"], category_name.parameterize].join("-")
+  proxy "/es/catalogo/#{category_param}/productos/index.html", "/localizable/category_products.es.html", locals: { category: category }
+
+  category_name = category["fr"].presence || category["es_name"]
+  category_param = [category["id"], category_name.parameterize].join("-")
+  proxy "/fr/catalogue/#{category_param}/produits/index.html", "/localizable/category_products.fr.html", locals: { category: category }
+end
+
+ignore "/localizable/category_products.en.html"
+ignore "/localizable/category_products.es.html"
+ignore "/localizable/category_products.fr.html"
+
 # Helpers
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
@@ -46,6 +64,18 @@ helpers do
 
   def category_description(category)
     category["#{I18n.locale}_description"].presence || category["es_description"]
+  end
+
+  def category_param(category)
+    [category.id, category_name(category).parameterize].join("-")
+  end
+
+  def product_name(product)
+    product["#{I18n.locale}_name"].presence || product["es_name"]
+  end
+
+  def product_description(product)
+    product["#{I18n.locale}_description"].presence || product["es_description"]
   end
 end
 
