@@ -1,3 +1,9 @@
+@media (min-width: 800px) {
+  nav.overlay-nav {
+    display: none;
+  }
+}
+
 .overlay-nav-menu-toggle {
   position: absolute;
   font-size: 3rem;
