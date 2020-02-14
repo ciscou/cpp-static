@@ -1,0 +1,1474 @@
+[
+  {
+    "id": 704,
+    "category_id": 8,
+    "es_name": "Maceta 25´5X22´5cm.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/704/maceta-25-5x22-5cm.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/704/small_maceta-25-5x22-5cm.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/704/thumb_maceta-25-5x22-5cm.jpg"
+      }
+    },
+    "created_at": "2017-08-11T16:54:13.412+02:00",
+    "updated_at": "2017-08-11T17:34:13.942+02:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 700,
+    "category_id": 8,
+    "es_name": "Coco 34x31cm.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/700/coco-34x31cm.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/700/small_coco-34x31cm.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/700/thumb_coco-34x31cm.jpg"
+      }
+    },
+    "created_at": "2017-08-10T16:33:52.050+02:00",
+    "updated_at": "2017-08-11T17:34:47.534+02:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 671,
+    "category_id": 8,
+    "es_name": "Macetas pared  ---",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/671/macetas-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/671/small_macetas-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/671/thumb_macetas-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T17:07:44.373+01:00",
+    "updated_at": "2016-02-15T18:42:41.856+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 670,
+    "category_id": 8,
+    "es_name": "Jardineras--",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/670/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/670/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/670/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T17:06:49.408+01:00",
+    "updated_at": "2016-02-15T18:42:56.580+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 669,
+    "category_id": 8,
+    "es_name": "Cocos-",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/669/cocos.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/669/small_cocos.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/669/thumb_cocos.JPG"
+      }
+    },
+    "created_at": "2016-02-15T17:05:29.460+01:00",
+    "updated_at": "2016-02-15T18:43:09.720+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 668,
+    "category_id": 8,
+    "es_name": "Mallorquinas......",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/668/mallorquinas.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/668/small_mallorquinas.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/668/thumb_mallorquinas.jpg"
+      }
+    },
+    "created_at": "2016-02-15T17:03:39.936+01:00",
+    "updated_at": "2016-02-15T18:51:10.498+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 667,
+    "category_id": 8,
+    "es_name": "Macetas suelo.....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/667/macetas-suelo.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/667/small_macetas-suelo.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/667/thumb_macetas-suelo.jpg"
+      }
+    },
+    "created_at": "2016-02-15T17:02:08.845+01:00",
+    "updated_at": "2016-02-15T18:52:10.276+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 666,
+    "category_id": 8,
+    "es_name": "Macetas de suelo.....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/666/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/666/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/666/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T17:00:51.609+01:00",
+    "updated_at": "2016-02-15T18:43:58.567+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 665,
+    "category_id": 8,
+    "es_name": "Macetas de pared......",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/665/macetas-de-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/665/small_macetas-de-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/665/thumb_macetas-de-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T17:00:05.381+01:00",
+    "updated_at": "2016-02-15T18:44:13.120+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 664,
+    "category_id": 8,
+    "es_name": "Jardineras......",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/664/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/664/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/664/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:58:39.361+01:00",
+    "updated_at": "2016-02-15T18:44:25.656+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 663,
+    "category_id": 8,
+    "es_name": "Mallorquinas.....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/663/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/663/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/663/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:57:27.784+01:00",
+    "updated_at": "2016-02-15T18:44:40.721+01:00",
+    "new_arrival": true,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 662,
+    "category_id": 8,
+    "es_name": "Cocos.....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/662/cocos.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/662/small_cocos.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/662/thumb_cocos.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:56:20.240+01:00",
+    "updated_at": "2016-02-15T16:56:42.381+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 661,
+    "category_id": 8,
+    "es_name": "Orzas de pared",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/661/orzas-de-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/661/small_orzas-de-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/661/thumb_orzas-de-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:54:38.337+01:00",
+    "updated_at": "2016-02-15T16:55:17.906+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 660,
+    "category_id": 8,
+    "es_name": "Menorquinas.....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/660/menorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/660/small_menorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/660/thumb_menorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:53:44.479+01:00",
+    "updated_at": "2016-02-15T16:53:44.479+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 659,
+    "category_id": 8,
+    "es_name": "Menorquinas...",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/659/menorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/659/small_menorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/659/thumb_menorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:52:47.343+01:00",
+    "updated_at": "2016-02-15T16:52:47.343+01:00",
+    "new_arrival": false,
+    "decoration_code": "red_olive",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 657,
+    "category_id": 8,
+    "es_name": "Macetas de pared.....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/657/macetas-de-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/657/small_macetas-de-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/657/thumb_macetas-de-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:50:06.585+01:00",
+    "updated_at": "2016-02-15T16:50:06.585+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 656,
+    "category_id": 8,
+    "es_name": "Macetas de suelo....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/656/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/656/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/656/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:46:59.960+01:00",
+    "updated_at": "2016-02-15T16:46:59.960+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 655,
+    "category_id": 8,
+    "es_name": "Jardineras....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/655/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/655/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/655/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:45:51.741+01:00",
+    "updated_at": "2016-02-15T16:45:51.741+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 654,
+    "category_id": 8,
+    "es_name": "Mallorquinas....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/654/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/654/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/654/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:45:06.068+01:00",
+    "updated_at": "2016-02-15T16:45:06.068+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 653,
+    "category_id": 8,
+    "es_name": "Cocos....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/653/cocos.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/653/small_cocos.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/653/thumb_cocos.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:44:19.101+01:00",
+    "updated_at": "2016-02-15T16:44:19.101+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 652,
+    "category_id": 8,
+    "es_name": "Macetas de suelo...",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/652/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/652/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/652/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:42:23.249+01:00",
+    "updated_at": "2016-02-15T16:42:23.249+01:00",
+    "new_arrival": false,
+    "decoration_code": "multi_flower",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 651,
+    "category_id": 8,
+    "es_name": "Macetas de pared....",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/651/macetas-de-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/651/small_macetas-de-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/651/thumb_macetas-de-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:41:42.599+01:00",
+    "updated_at": "2016-02-15T16:41:42.599+01:00",
+    "new_arrival": false,
+    "decoration_code": "multi_flower",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 650,
+    "category_id": 8,
+    "es_name": "Mallorquinas...",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/650/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/650/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/650/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:40:26.121+01:00",
+    "updated_at": "2016-02-15T16:40:26.121+01:00",
+    "new_arrival": false,
+    "decoration_code": "multi_flower",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 649,
+    "category_id": 8,
+    "es_name": "Cocos...",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/649/cocos.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/649/small_cocos.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/649/thumb_cocos.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:39:36.163+01:00",
+    "updated_at": "2016-02-15T16:39:36.163+01:00",
+    "new_arrival": false,
+    "decoration_code": "multi_flower",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 648,
+    "category_id": 8,
+    "es_name": "Jardineras...",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/648/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/648/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/648/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:37:23.373+01:00",
+    "updated_at": "2016-02-15T16:38:45.024+01:00",
+    "new_arrival": false,
+    "decoration_code": "multi_flower",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 645,
+    "category_id": 8,
+    "es_name": "-  Cocos",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/645/cocos.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/645/small_cocos.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/645/thumb_cocos.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:32:27.429+01:00",
+    "updated_at": "2016-02-15T16:32:27.429+01:00",
+    "new_arrival": false,
+    "decoration_code": "poppy",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 644,
+    "category_id": 8,
+    "es_name": "-  Macetas de suelo",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/644/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/644/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/644/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:31:28.495+01:00",
+    "updated_at": "2016-02-15T16:31:28.495+01:00",
+    "new_arrival": false,
+    "decoration_code": "poppy",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 643,
+    "category_id": 8,
+    "es_name": "-  Mallorquinas",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/643/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/643/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/643/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:30:31.491+01:00",
+    "updated_at": "2016-02-15T16:30:31.491+01:00",
+    "new_arrival": false,
+    "decoration_code": "poppy",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 642,
+    "category_id": 8,
+    "es_name": "-  Jardineras",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/642/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/642/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/642/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:29:43.527+01:00",
+    "updated_at": "2016-02-15T16:29:43.527+01:00",
+    "new_arrival": false,
+    "decoration_code": "poppy",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 641,
+    "category_id": 8,
+    "es_name": "-Macetas pared",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/641/macetas-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/641/small_macetas-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/641/thumb_macetas-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:28:43.459+01:00",
+    "updated_at": "2016-02-15T16:28:43.459+01:00",
+    "new_arrival": false,
+    "decoration_code": "poppy",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 640,
+    "category_id": 8,
+    "es_name": "Macetas de suelo-",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/640/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/640/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/640/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:26:12.613+01:00",
+    "updated_at": "2016-02-15T16:26:12.613+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 639,
+    "category_id": 8,
+    "es_name": "Macetas de pared-",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/639/macetas-de-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/639/small_macetas-de-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/639/thumb_macetas-de-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:24:36.997+01:00",
+    "updated_at": "2016-02-15T16:24:36.997+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 638,
+    "category_id": 8,
+    "es_name": "Mallorquinas-",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/638/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/638/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/638/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:23:27.129+01:00",
+    "updated_at": "2016-02-15T16:23:27.129+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 637,
+    "category_id": 8,
+    "es_name": "jardineras",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/637/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/637/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/637/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:20:32.918+01:00",
+    "updated_at": "2016-02-15T16:20:51.242+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 636,
+    "category_id": 8,
+    "es_name": "Mallorquinas",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/636/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/636/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/636/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:16:09.995+01:00",
+    "updated_at": "2016-02-15T16:16:27.354+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 635,
+    "category_id": 8,
+    "es_name": "Jardineras",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/635/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/635/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/635/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:15:25.398+01:00",
+    "updated_at": "2016-02-15T16:15:25.398+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 634,
+    "category_id": 8,
+    "es_name": "Macetas de pared.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/634/macetas-de-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/634/small_macetas-de-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/634/thumb_macetas-de-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:14:28.185+01:00",
+    "updated_at": "2016-02-15T16:14:28.185+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 633,
+    "category_id": 8,
+    "es_name": "macetas de suelo",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/633/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/633/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/633/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T16:12:01.025+01:00",
+    "updated_at": "2016-02-15T16:12:20.143+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 632,
+    "category_id": 8,
+    "es_name": "Macetas de suelo",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/632/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/632/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/632/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:57:34.601+01:00",
+    "updated_at": "2016-02-15T14:58:36.798+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 631,
+    "category_id": 8,
+    "es_name": "Jardineras.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/631/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/631/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/631/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:56:33.925+01:00",
+    "updated_at": "2016-02-15T14:58:49.947+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 630,
+    "category_id": 8,
+    "es_name": "Mallorquinas,",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/630/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/630/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/630/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:55:20.885+01:00",
+    "updated_at": "2016-02-15T14:59:02.274+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 629,
+    "category_id": 8,
+    "es_name": "macetas pared,",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/629/macetas-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/629/small_macetas-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/629/thumb_macetas-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:52:55.983+01:00",
+    "updated_at": "2016-02-15T14:52:55.983+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 628,
+    "category_id": 8,
+    "es_name": "Mallorquinas.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/628/mallorquinas.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/628/small_mallorquinas.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/628/thumb_mallorquinas.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:51:00.091+01:00",
+    "updated_at": "2016-02-15T14:59:13.850+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 627,
+    "category_id": 8,
+    "es_name": "Jardineras..",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/627/jardineras.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/627/small_jardineras.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/627/thumb_jardineras.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:50:13.180+01:00",
+    "updated_at": "2016-02-15T14:59:30.286+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 626,
+    "category_id": 8,
+    "es_name": "Macetas de pared",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/626/macetas-de-pared.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/626/small_macetas-de-pared.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/626/thumb_macetas-de-pared.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:49:23.961+01:00",
+    "updated_at": "2016-02-15T14:59:42.464+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 625,
+    "category_id": 8,
+    "es_name": "Macetas de suelo.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/625/macetas-de-suelo.JPG",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/625/small_macetas-de-suelo.JPG"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/625/thumb_macetas-de-suelo.JPG"
+      }
+    },
+    "created_at": "2016-02-15T14:48:34.678+01:00",
+    "updated_at": "2016-02-15T14:59:55.567+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 403,
+    "category_id": 8,
+    "es_name": "Tinaja de pared",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/403/tinaja-de-pared.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/403/small_tinaja-de-pared.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/403/thumb_tinaja-de-pared.jpg"
+      }
+    },
+    "created_at": "2012-05-23T08:15:05.940+02:00",
+    "updated_at": "2013-05-30T16:15:12.434+02:00",
+    "new_arrival": false,
+    "decoration_code": "red_olive",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 373,
+    "category_id": 8,
+    "es_name": "cocos. campanas y  marbellas",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/373/cocos-campanas-y-marbellas.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/373/small_cocos-campanas-y-marbellas.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/373/thumb_cocos-campanas-y-marbellas.jpg"
+      }
+    },
+    "created_at": "2012-05-20T21:25:25.167+02:00",
+    "updated_at": "2012-05-20T21:25:25.167+02:00",
+    "new_arrival": false,
+    "decoration_code": "retro",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 371,
+    "category_id": 8,
+    "es_name": "Campanas, cocos y marbellas",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/371/campanas-cocos-y-marbellas.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/371/small_campanas-cocos-y-marbellas.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/371/thumb_campanas-cocos-y-marbellas.jpg"
+      }
+    },
+    "created_at": "2012-05-20T21:20:48.345+02:00",
+    "updated_at": "2012-05-20T21:22:39.447+02:00",
+    "new_arrival": false,
+    "decoration_code": "retro",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 354,
+    "category_id": 8,
+    "es_name": "Decoración blue orange",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/354/decoracion-blue-orange.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/354/small_decoracion-blue-orange.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/354/thumb_decoracion-blue-orange.jpg"
+      }
+    },
+    "created_at": "2012-05-19T19:00:17.203+02:00",
+    "updated_at": "2012-12-07T19:01:22.458+01:00",
+    "new_arrival": false,
+    "decoration_code": "blue_orange",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 351,
+    "category_id": 8,
+    "es_name": "Maceta redonda",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/351/maceta-redonda.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/351/small_maceta-redonda.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/351/thumb_maceta-redonda.jpg"
+      }
+    },
+    "created_at": "2012-05-19T18:35:18.368+02:00",
+    "updated_at": "2012-12-07T19:01:39.627+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 350,
+    "category_id": 8,
+    "es_name": "Maceta de colgar",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/350/maceta-de-colgar.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/350/small_maceta-de-colgar.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/350/thumb_maceta-de-colgar.jpg"
+      }
+    },
+    "created_at": "2012-05-19T18:34:21.934+02:00",
+    "updated_at": "2012-12-07T19:05:40.046+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 348,
+    "category_id": 8,
+    "es_name": "Maceta redonda.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/348/maceta-redonda.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/348/small_maceta-redonda.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/348/thumb_maceta-redonda.jpg"
+      }
+    },
+    "created_at": "2012-05-19T18:32:21.783+02:00",
+    "updated_at": "2012-12-07T19:05:57.203+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 347,
+    "category_id": 8,
+    "es_name": "Maceta redonda,",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/347/maceta-redonda.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/347/small_maceta-redonda.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/347/thumb_maceta-redonda.jpg"
+      }
+    },
+    "created_at": "2012-05-19T18:30:39.305+02:00",
+    "updated_at": "2012-12-07T19:01:58.769+01:00",
+    "new_arrival": false,
+    "decoration_code": "flowered",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 332,
+    "category_id": 8,
+    "es_name": "Maceta cuadrada",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/332/maceta-cuadrada.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/332/small_maceta-cuadrada.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/332/thumb_maceta-cuadrada.jpg"
+      }
+    },
+    "created_at": "2012-05-19T10:30:48.622+02:00",
+    "updated_at": "2012-05-19T10:30:48.622+02:00",
+    "new_arrival": false,
+    "decoration_code": "figs",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 314,
+    "category_id": 8,
+    "es_name": "coco nº 4",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/314/coco-n-4.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/314/small_coco-n-4.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/314/thumb_coco-n-4.jpg"
+      }
+    },
+    "created_at": "2012-05-13T20:36:36.120+02:00",
+    "updated_at": "2013-09-19T19:04:57.688+02:00",
+    "new_arrival": false,
+    "decoration_code": "granadine",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 310,
+    "category_id": 8,
+    "es_name": "COCOS, MALLORQUINAS, ETC.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/310/cocos-mallorquinas-etc.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/310/small_cocos-mallorquinas-etc.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/310/thumb_cocos-mallorquinas-etc.jpg"
+      }
+    },
+    "created_at": "2012-05-13T07:35:00.567+02:00",
+    "updated_at": "2012-05-13T07:35:00.567+02:00",
+    "new_arrival": false,
+    "decoration_code": "popular",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 302,
+    "category_id": 8,
+    "es_name": "MALLORQUINAS Y COCOS ETC.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/302/mallorquinas-y-cocos-etc.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/302/small_mallorquinas-y-cocos-etc.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/302/thumb_mallorquinas-y-cocos-etc.jpg"
+      }
+    },
+    "created_at": "2012-05-12T22:16:58.432+02:00",
+    "updated_at": "2012-05-12T22:17:29.073+02:00",
+    "new_arrival": false,
+    "decoration_code": "classic",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 258,
+    "category_id": 8,
+    "es_name": "JARDINERA",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/258/jardinera.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/258/small_jardinera.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/258/thumb_jardinera.jpg"
+      }
+    },
+    "created_at": "2012-05-08T16:06:58.051+02:00",
+    "updated_at": "2012-12-07T19:02:33.627+01:00",
+    "new_arrival": false,
+    "decoration_code": "multi_flower",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 252,
+    "category_id": 8,
+    "es_name": "MALLORQUINAS, COCOS",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/252/mallorquinas-cocos.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/252/small_mallorquinas-cocos.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/252/thumb_mallorquinas-cocos.jpg"
+      }
+    },
+    "created_at": "2012-05-08T14:48:11.839+02:00",
+    "updated_at": "2012-05-08T14:48:11.839+02:00",
+    "new_arrival": false,
+    "decoration_code": "alhambra",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 251,
+    "category_id": 8,
+    "es_name": "COCOS, MALLORQUINAS,",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/251/cocos-mallorquinas.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/251/small_cocos-mallorquinas.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/251/thumb_cocos-mallorquinas.jpg"
+      }
+    },
+    "created_at": "2012-05-08T14:46:46.887+02:00",
+    "updated_at": "2012-05-08T14:46:46.887+02:00",
+    "new_arrival": false,
+    "decoration_code": "alhambra",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 249,
+    "category_id": 8,
+    "es_name": "COCO,  MALLORQUINAS",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/249/coco-mallorquinas.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/249/small_coco-mallorquinas.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/249/thumb_coco-mallorquinas.jpg"
+      }
+    },
+    "created_at": "2012-05-08T14:32:07.194+02:00",
+    "updated_at": "2012-05-08T14:32:07.194+02:00",
+    "new_arrival": false,
+    "decoration_code": "olive_tree_r",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 247,
+    "category_id": 8,
+    "es_name": "COCOS, COCOS PLANOS, ETC.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/247/cocos-cocos-planos-etc.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/247/small_cocos-cocos-planos-etc.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/247/thumb_cocos-cocos-planos-etc.jpg"
+      }
+    },
+    "created_at": "2012-05-08T14:29:21.946+02:00",
+    "updated_at": "2012-05-08T14:29:21.946+02:00",
+    "new_arrival": false,
+    "decoration_code": "figs",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 246,
+    "category_id": 8,
+    "es_name": "mallorquinas",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/246/mallorquinas.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/246/small_mallorquinas.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/246/thumb_mallorquinas.jpg"
+      }
+    },
+    "created_at": "2012-05-08T14:28:00.421+02:00",
+    "updated_at": "2012-05-19T09:04:53.034+02:00",
+    "new_arrival": false,
+    "decoration_code": "brusheds",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  }
+]

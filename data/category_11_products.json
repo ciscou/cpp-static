@@ -1,0 +1,71 @@
+[
+  {
+    "id": 438,
+    "category_id": 11,
+    "es_name": "Azulejos cerámicos alta decoración",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/438/azulejos-ceramicos-alta-decoracion.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/438/small_azulejos-ceramicos-alta-decoracion.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/438/thumb_azulejos-ceramicos-alta-decoracion.jpg"
+      }
+    },
+    "created_at": "2012-06-09T10:49:15.787+02:00",
+    "updated_at": "2012-06-09T10:49:15.787+02:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 408,
+    "category_id": 11,
+    "es_name": "Azulejos de cerámica con cenefas pintadas a mano",
+    "es_description": "Azulejos de cerámica pintados a mano",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/408/azulejos-de-ceramica-con-cenefas-pintadas-a-mano.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/408/small_azulejos-de-ceramica-con-cenefas-pintadas-a-mano.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/408/thumb_azulejos-de-ceramica-con-cenefas-pintadas-a-mano.jpg"
+      }
+    },
+    "created_at": "2012-05-31T20:41:56.683+02:00",
+    "updated_at": "2013-12-01T20:43:10.830+01:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": "",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 319,
+    "category_id": 11,
+    "es_name": "Plato de colgar de 30cmt.",
+    "es_description": "",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/319/plato-de-colgar-de-30cmt.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/319/small_plato-de-colgar-de-30cmt.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/product/picture/319/thumb_plato-de-colgar-de-30cmt.jpg"
+      }
+    },
+    "created_at": "2012-05-16T18:46:40.596+02:00",
+    "updated_at": "2012-05-16T18:46:40.596+02:00",
+    "new_arrival": false,
+    "decoration_code": "",
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  }
+]

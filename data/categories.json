@@ -1,0 +1,222 @@
+[
+  {
+    "id": 2,
+    "es_name": "Modelos de jardinería",
+    "es_description": "Para decorar y alegrar tu casa, las macetas maceteros y jardineras es la solución ideal. Si dispones de balcón,  patio o en la repisa de una ventana, aprovecha cualquier lugar para poner jardineras, macetas de pared y maceteros.\r\n\r\nEstos son los productos que fabricamos en la sección de jardinería.\r\n\r\nPerfectos para su jardín, casa o chalet.",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/2/modelos-de-jardineria.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/2/small_modelos-de-jardineria.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/2/thumb_modelos-de-jardineria.jpg"
+      }
+    },
+    "created_at": "2011-10-26T03:23:08.030+02:00",
+    "updated_at": "2016-02-25T19:02:10.316+01:00",
+    "position": 1,
+    "decoration_tag": "gardering",
+    "en_name": "Gardening collection",
+    "en_description": "",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 8,
+    "es_name": "Decoraciones de jardinería",
+    "es_description": "Estas son las decoraciones disponibles para todos los modelos de jardinería.\r\n\r\nTodos nuestros productos están pintados a mano.",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/8/decoraciones-de-jardineria.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/8/small_decoraciones-de-jardineria.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/8/thumb_decoraciones-de-jardineria.jpg"
+      }
+    },
+    "created_at": "2012-05-06T19:24:55.599+02:00",
+    "updated_at": "2017-08-11T17:34:50.056+02:00",
+    "position": 2,
+    "decoration_tag": "gardering",
+    "en_name": "Gardening designs",
+    "en_description": "These designs are available for all garden products",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 7,
+    "es_name": "Modelos de menaje..",
+    "es_description": "Estos son los modelos de menaje que fabricamos.\r\n\r\nEstos modelos se pueden ver en otros decorados en la sección \"Decoraciones de menaje\". ",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/7/modelos-de-menaje.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/7/small_modelos-de-menaje.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/7/thumb_modelos-de-menaje.jpg"
+      }
+    },
+    "created_at": "2012-05-06T12:57:07.410+02:00",
+    "updated_at": "2018-04-03T11:19:52.041+02:00",
+    "position": 3,
+    "decoration_tag": "household",
+    "en_name": "Tableware collection",
+    "en_description": "Our tableware range can be seen in different coulours in our section\r\n\"Tableware designs\"",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 3,
+    "es_name": "Decoraciones de menaje",
+    "es_description": "Estas son las decoraciones disponibles para todos los modelos de menaje.\r\n\r\nTodos nuestros productos están pintados a mano.\r\n\r\n\r\n",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/3/decoraciones-de-menaje.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/3/small_decoraciones-de-menaje.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/3/thumb_decoraciones-de-menaje.jpg"
+      }
+    },
+    "created_at": "2011-10-31T13:56:03.555+01:00",
+    "updated_at": "2018-04-03T11:28:02.353+02:00",
+    "position": 4,
+    "decoration_tag": "household",
+    "en_name": "Tableware designs",
+    "en_description": "Our hand painted decorations can be applied in all tableware items we produce.",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 14,
+    "es_name": "Combinado de productos y decorados de MENAJE",
+    "es_description": "En este apartado podrá encontrar una combinación de los modelos de MENAJE con diferentes decorados.",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/14/combinado-de-productos-y-decorados-de-menaje.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/14/small_combinado-de-productos-y-decorados-de-menaje.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/14/thumb_combinado-de-productos-y-decorados-de-menaje.jpg"
+      }
+    },
+    "created_at": "2013-05-29T21:31:47.479+02:00",
+    "updated_at": "2016-10-18T12:31:43.779+02:00",
+    "position": 5,
+    "decoration_tag": null,
+    "en_name": "Products and tableware designs",
+    "en_description": "Hand painted mix tableware products and designs",
+    "fr_name": "",
+    "fr_description": ""
+  },
+  {
+    "id": 15,
+    "es_name": "Combinado de productos y decorados de JARDINERIA",
+    "es_description": "En este apartado podrá encontrar una combinación de los modelos de JARDINERÍA con diferentes decorados.",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/15/combinado-de-productos-y-decorados-de-jardineria.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/15/small_combinado-de-productos-y-decorados-de-jardineria.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/15/thumb_combinado-de-productos-y-decorados-de-jardineria.jpg"
+      }
+    },
+    "created_at": "2013-05-29T22:20:17.946+02:00",
+    "updated_at": "2016-10-18T12:32:54.500+02:00",
+    "position": 6,
+    "decoration_tag": null,
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 5,
+    "es_name": "Cazuelas",
+    "es_description": "Las cazuelas de barro son complementos de cocina, que llevan mucho tiempo entre nosotros, incluso podríamos decir que se trata del recipiente mas antiguo que existe para cocinar y en el cual quedan mas sabrosas las comidas. ",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/5/cazuelas.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/5/small_cazuelas.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/5/thumb_cazuelas.jpg"
+      }
+    },
+    "created_at": "2011-11-10T18:37:51.615+01:00",
+    "updated_at": "2017-08-10T09:38:53.848+02:00",
+    "position": 7,
+    "decoration_tag": null,
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 11,
+    "es_name": "Productos especiales personalizados",
+    "es_description": "También hacemos decoraciones a medida para adaptarnos lo mejor posible a sus necesidades.",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/11/productos-especiales-personalizados.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/11/small_productos-especiales-personalizados.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/11/thumb_productos-especiales-personalizados.jpg"
+      }
+    },
+    "created_at": "2012-05-11T13:44:49.341+02:00",
+    "updated_at": "2017-08-10T09:39:38.593+02:00",
+    "position": 8,
+    "decoration_tag": null,
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 13,
+    "es_name": "Otros modelos",
+    "es_description": "En esta categoría encontrará una selección de otros modelos.\r\n\r\nTodos nuestros productos están pintados a mano",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/13/otros-modelos.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/13/small_otros-modelos.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/13/thumb_otros-modelos.jpg"
+      }
+    },
+    "created_at": "2012-06-16T12:10:26.971+02:00",
+    "updated_at": "2016-01-13T16:32:44.531+01:00",
+    "position": 9,
+    "decoration_tag": null,
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  },
+  {
+    "id": 6,
+    "es_name": "Otros decorados",
+    "es_description": "En esta categoría encontrará una selección de otros decorados.\r\n\r\nTodos nuestros productos están pintados a mano.",
+    "picture": {
+      "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/6/otros-decorados.jpg",
+      "small": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/6/small_otros-decorados.jpg"
+      },
+      "thumb": {
+        "url": "https://ceramicapadillaeu.s3.amazonaws.com/uploads/category/picture/6/thumb_otros-decorados.jpg"
+      }
+    },
+    "created_at": "2012-04-24T16:30:32.611+02:00",
+    "updated_at": "2016-11-21T17:27:19.838+01:00",
+    "position": 10,
+    "decoration_tag": null,
+    "en_name": null,
+    "en_description": null,
+    "fr_name": null,
+    "fr_description": null
+  }
+]
