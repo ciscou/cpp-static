@@ -8,6 +8,7 @@
     <%= stylesheet_link_tag "foundation" %>
     <%= stylesheet_link_tag "foundation-icons" %>
     <%= stylesheet_link_tag "blueimp-gallery" %>
+    <%= stylesheet_link_tag "blueimp-gallery-indicator" %>
     <%= stylesheet_link_tag "app" %>
   </head>
 
@@ -38,7 +39,7 @@
       <%= yield %>
     </div>
 
-    <div id="blueimp-gallery" class="blueimp-gallery">
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
       <div class="slides"></div>
       <h3 class="title"></h3>
       <a class="prev">‹</a>
@@ -50,6 +51,7 @@
 
     <%= javascript_include_tag "foundation" %>
     <%= javascript_include_tag "blueimp-gallery" %>
+    <%= javascript_include_tag "blueimp-gallery-indicator" %>
     <%= javascript_include_tag "app" %>
   </body>
 </html>
