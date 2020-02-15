@@ -8,7 +8,6 @@
     <%= stylesheet_link_tag "foundation" %>
     <%= stylesheet_link_tag "foundation-icons" %>
     <%= stylesheet_link_tag "blueimp-gallery" %>
-    <%= stylesheet_link_tag "blueimp-gallery-indicator" %>
     <%= stylesheet_link_tag "app" %>
   </head>
 
@@ -46,12 +45,11 @@
       <a class="next">›</a>
       <a class="close">×</a>
       <a class="play-pause"></a>
-      <ol class="indicator"></ol>
+      <div class="description"><p><%= lorem.paragraph %></p></div>
     </div>
 
     <%= javascript_include_tag "foundation" %>
     <%= javascript_include_tag "blueimp-gallery" %>
-    <%= javascript_include_tag "blueimp-gallery-indicator" %>
     <%= javascript_include_tag "app" %>
   </body>
 </html>
