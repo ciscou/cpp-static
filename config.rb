@@ -38,20 +38,16 @@ page '/fr/*', layout: 'fr_layout'
 data.categories.each do |category|
   category_name = category["en_name"].presence || category["es_name"]
   category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/en/catalog/#{category_param}/products/index.html", "/localizable/category_products.en.html", locals: { category: category }
+  proxy "/en/catalog/#{category_param}/products/index.html", "/category_products.en.html", locals: { category: category }, locale: :en, ignore: true
 
   category_name = category["es"].presence || category["es_name"]
   category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/es/catalogo/#{category_param}/productos/index.html", "/localizable/category_products.es.html", locals: { category: category }
+  proxy "/es/catalogo/#{category_param}/productos/index.html", "/category_products.es.html", locals: { category: category }, locale: :es, ignore: true
 
   category_name = category["fr"].presence || category["es_name"]
   category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/fr/catalogue/#{category_param}/produits/index.html", "/localizable/category_products.fr.html", locals: { category: category }
+  proxy "/fr/catalogue/#{category_param}/produits/index.html", "/category_products.fr.html", locals: { category: category }, locale: :fr, ignore: true
 end
-
-ignore "/localizable/category_products.en.html"
-ignore "/localizable/category_products.es.html"
-ignore "/localizable/category_products.fr.html"
 
 # Helpers
 # Methods defined in the helpers block are available in templates
