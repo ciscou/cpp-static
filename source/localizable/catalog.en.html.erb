@@ -6,7 +6,9 @@ active_tab: catalog
 <% data.categories.each do |category| %>
   <h2><%= category_name category %></h2>
 
-  <%= image_tag "category/#{category["id"]}/#{category_slug(category)}.jpg" %>
+  <% link_to "/en/catalog/#{category_param(category)}/products", class: "thumbnail" do %>
+    <%= image_tag "category/#{category["id"]}/#{category_slug(category)}.jpg" %>
+  <% end %>
 
   <%= simple_format category_description category %>
 
