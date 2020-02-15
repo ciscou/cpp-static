@@ -7,7 +7,7 @@ active_tab: catalog
   <% data["category_#{category["id"]}_products"].each do |product| %>
     <div class="photo">
       <% link_to image_path("product/#{product["id"]}/#{product_slug(product)}.jpg"), class: "photo" do %>
-        <%= image_tag "product/#{product["id"]}/#{product_slug(product)}.jpg" %>
+        <%= image_tag "product/#{product["id"]}/thumb/#{product_slug(product)}.jpg" %>
       <% end %>
     </div>
   <% end %>
