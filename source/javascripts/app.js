@@ -17,6 +17,7 @@
       },
       onopened: function() {
         // console.log('opened');
+        window.location.hash = "blueimp-gallery";
       },
       onslide: function(index, slide) {
         // console.log('slide', index, slide);
@@ -34,11 +35,22 @@
       },
       onclosed: function() {
         // console.log('closed');
+        window.blueimpGallery = undefined;
+
+        if(window.location.hash === "#blueimp-gallery") {
+          window.history.back();
+        }
       }
     };
 
-    blueimp.Gallery($photos, options);
+    window.blueimpGallery = blueimp.Gallery($photos, options);
   });
 
-  $('#blueimp-gallery')
+  window.onhashchange = function() {
+    if(window.location.hash === "") {
+      if(blueimpGallery) {
+        blueimpGallery.close();
+      }
+    }
+  }
 })(jQuery);
