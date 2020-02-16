@@ -108,8 +108,14 @@
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 300px;
+  height: 200px;
   margin-bottom: 24px;
+}
+
+@media (min-width: 800px) {
+  .subnav-hero-section {
+    height: 300px;
+  }
 }
 
 .subnav-hero-section .subnav-hero-headline {
@@ -162,4 +168,13 @@
   padding: 12px;
   color: #bbb;
   font-size: 12px;
+}
+
+a.see-more-products {
+  background-color: #900;
+}
+
+a.see-more-products:focus,
+a.see-more-products:hover {
+  background-color: #700;
 }

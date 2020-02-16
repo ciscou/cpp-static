@@ -89,6 +89,16 @@ helpers do
   def product_param(product)
     [product.id, product_slug(product)].join("-")
   end
+
+  def new_arrivals
+    data.categories.flat_map do |category|
+      data["category_#{category["id"]}_products"]
+    end.select do |product|
+      product["new_arrival"]
+    end.sort_by do |product|
+      product["created_at"]
+    end
+  end
 end
 
 # Build-specific configuration
