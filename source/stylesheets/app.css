@@ -6,7 +6,7 @@
 
 .overlay-nav-menu-toggle {
   position: absolute;
-  font-size: 3rem;
+  font-size: 2.5rem;
   z-index: 5000;
   color: white;
   top: 0.5rem;
@@ -177,4 +177,43 @@ a.see-more-products {
 a.see-more-products:focus,
 a.see-more-products:hover {
   background-color: #700;
+}
+
+.photos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.photos .photo-wrapper {
+  width: 47%;
+}
+
+@media (min-width: 400px) {
+  .photos .photo-wrapper {
+    width: 32%;
+  }
+}
+
+@media (min-width: 600px) {
+  .photos .photo-wrapper {
+    width: 24%;
+  }
+}
+
+@media (min-width: 800px) {
+  .photos .photo-wrapper {
+    width: 19%;
+  }
+}
+
+@media (min-width: 960px) {
+  .photos .photo-wrapper {
+    width: 15%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .photos .photo-wrapper {
+    width: 12%;
+  }
 }
