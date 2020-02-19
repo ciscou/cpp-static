@@ -212,8 +212,14 @@ a.see-more-products:hover {
   }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 990px) {
   .photos .photo-wrapper {
     width: 12%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .photos .photo-wrapper {
+    width: 9.5%;
   }
 }
