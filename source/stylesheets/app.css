@@ -188,7 +188,7 @@ a.see-more-products:hover {
   width: 47%;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 380px) {
   .photos .photo-wrapper {
     width: 32%;
   }
