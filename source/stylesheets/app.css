@@ -2,9 +2,19 @@
   max-width: 800px;
 }
 
+.header-for-dummies {
+  display: none;
+}
+
 @media (min-width: 800px) {
   nav.overlay-nav {
     display: none;
+  }
+
+  .header-for-dummies {
+    display: block;
+    text-align: right;
+    padding: 3px 12px;
   }
 }
 
