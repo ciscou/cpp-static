@@ -194,25 +194,25 @@ a.see-more-products:hover {
   }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
   .photos .photo-wrapper {
     width: 24%;
   }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 640px) {
   .photos .photo-wrapper {
     width: 19%;
   }
 }
 
-@media (min-width: 960px) {
+@media (min-width: 750px) {
   .photos .photo-wrapper {
-    width: 15%;
+    width: 16%;
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 800px) {
   .photos .photo-wrapper {
     width: 12%;
   }
