@@ -45,6 +45,24 @@
       <%= yield %>
     </div>
 
+    <footer style="background-color: #bbb; padding: 12px">
+      <div class="grid-container">
+        <div class="grid-x">
+          <div class="cell medium-6" style="text-align: center">
+            <span style="color: #d00000; font-weight: bold">
+              <%= image_tag "red-logo.png", style: "width: 30px" %>
+              Ceramica Padilla Padilla
+            </span>
+          </div>
+          <div class="cell medium-6" style="text-align: center">
+            <a href="/en" style="color: #333">English</a> |
+            <a href="/es" style="color: #333">Espanol</a> |
+            <a href="/fr" style="color: #333">Francais</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
     <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
       <div class="slides"></div>
       <h3 class="title"></h3>
