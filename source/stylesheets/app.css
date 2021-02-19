@@ -227,34 +227,43 @@ a.see-more-products:hover {
 }
 
 .photos {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
 }
 
 .photos .photo-wrapper {
-  width: 47%;
+  margin: 0 auto;
+}
+
+.photos {
+  grid-template-columns: repeat(1, 1fr)
+}
+
+@media (min-width: 250) {
+  .photos {
+    grid-template-columns: repeat(2, 1fr)
+  }
 }
 
 @media (min-width: 360px) {
-  .photos .photo-wrapper {
-    width: 33%;
+  .photos {
+    grid-template-columns: repeat(3, 1fr)
   }
 }
 
 @media (min-width: 500px) {
-  .photos .photo-wrapper {
-    width: 24%;
+  .photos {
+    grid-template-columns: repeat(4, 1fr)
   }
 }
 
 @media (min-width: 640px) {
-  .photos .photo-wrapper {
-    width: 19%;
+  .photos {
+    grid-template-columns: repeat(5, 1fr)
   }
 }
 
 @media (min-width: 750px) {
-  .photos .photo-wrapper {
-    width: 16%;
+  .photos {
+    grid-template-columns: repeat(6, 1fr)
   }
 }
