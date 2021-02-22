@@ -7,12 +7,12 @@ active_tab: catalog
   <h2><%= category_name category %></h2>
 
   <p>
-    <% link_to "/catalogo/#{category_param(category)}/productos" do %>
+    <% link_to "/catalogo/#{category_slug(category)}/productos" do %>
       <%= image_tag "category/#{category["id"]}/#{category_slug(category)}.jpg" %>
     <% end %>
   </p>
 
   <%= simple_format category_description category %>
 
-  <p>Ver <%= link_to "productos", "/catalogo/#{category_param(category)}/productos" %><p>
+  <p>Ver <%= link_to "productos", "/catalogo/#{category_slug(category)}/productos" %><p>
 <% end %>

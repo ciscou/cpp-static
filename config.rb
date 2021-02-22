@@ -35,9 +35,7 @@ proxy "/donde-estamos/index.html", "/where.html", ignore: true
 proxy "/contacte-con-nosotros/index.html", "/contact.html", ignore: true
 
 data.categories.each do |category|
-  category_name = category["es_name"]
-  category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/catalogo/#{category_param}/productos/index.html", "/category_products.html", locals: { category: category }, ignore: true
+  proxy "/catalogo/#{category.es_name.parameterize}/productos/index.html", "/category_products.html", locals: { category: category }, ignore: true
 end
 
 # Helpers
@@ -55,10 +53,6 @@ helpers do
 
   def category_slug(category)
     category_name(category).parameterize
-  end
-
-  def category_param(category)
-    [category.id, category_slug(category)].join("-")
   end
 
   def product_name(product)
