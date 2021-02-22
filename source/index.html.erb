@@ -8,8 +8,8 @@ active_tab: home
 <div class="photos">
   <% new_arrivals.each do |product| %>
     <div class="photo-wrapper">
-      <% link_to image_path("product/#{product["id"]}/#{product_slug(product)}.jpg"), title: product_name(product), class: "photo thumbnail", data: { description: simple_format(product_description(product)) } do %>
-        <%= image_tag "product/#{product["id"]}/thumb/#{product_slug(product)}.jpg", alt: product_name(product) %>
+      <% link_to image_path("product/#{product["id"]}/#{product_slug(product)}.jpg"), title: product.es_name, class: "photo thumbnail", data: { description: simple_format(product.es_description) } do %>
+        <%= image_tag "product/#{product["id"]}/thumb/#{product_slug(product)}.jpg", alt: product.es_name %>
       <% end %>
     </div>
   <% end %>

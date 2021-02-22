@@ -4,7 +4,7 @@ active_tab: catalog
 ---
 
 <% data.categories.each do |category| %>
-  <h2><%= category_name category %></h2>
+  <h2><%= category.es_name %></h2>
 
   <p>
     <% link_to "/catalogo/#{category_slug(category)}/productos" do %>
@@ -12,7 +12,7 @@ active_tab: catalog
     <% end %>
   </p>
 
-  <%= simple_format category_description category %>
+  <%= simple_format category.es_description %>
 
   <p>Ver <%= link_to "productos", "/catalogo/#{category_slug(category)}/productos" %><p>
 <% end %>

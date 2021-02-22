@@ -43,32 +43,12 @@ end
 # https://middlemanapp.com/basics/helper-methods/
 
 helpers do
-  def category_name(category)
-    category["es_name"]
-  end
-
-  def category_description(category)
-    category["es_description"]
-  end
-
   def category_slug(category)
-    category_name(category).parameterize
-  end
-
-  def product_name(product)
-    product["es_name"]
-  end
-
-  def product_description(product)
-    product["es_description"]
+    category.es_name.parameterize
   end
 
   def product_slug(product)
-    product_name(product).parameterize
-  end
-
-  def product_param(product)
-    [product.id, product_slug(product)].join("-")
+    product.es_name.parameterize
   end
 
   def new_arrivals
