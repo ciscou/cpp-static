@@ -1,8 +1,0 @@
----
-fr:
-  hello: "Bonjour"
-  paths:
-    catalog: "catalogue"
-    who: "qui-sommes-nous"
-    where: "ou-sommes-nous"
-    contact: "contactez-nous"

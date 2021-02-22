@@ -7,8 +7,6 @@ end
 
 activate :directory_indexes
 
-activate :i18n, mount_at_root: false
-
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
@@ -19,10 +17,6 @@ page '/*.txt', layout: false
 
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
-
-page '/en/*', layout: 'en_layout'
-page '/es/*', layout: 'es_layout'
-page '/fr/*', layout: 'fr_layout'
 
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
@@ -36,21 +30,9 @@ page '/fr/*', layout: 'fr_layout'
 # )
 
 data.categories.each do |category|
-  category_name = category["en_name"].presence || category["es_name"]
+  category_name = category["es_name"]
   category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/en/catalog/#{category_param}/products/index.html", "/category_products.en.html", locals: { category: category }, locale: :en
-
-  category_name = category["es"].presence || category["es_name"]
-  category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/es/catalogo/#{category_param}/productos/index.html", "/category_products.es.html", locals: { category: category }, locale: :es
-
-  category_name = category["fr"].presence || category["es_name"]
-  category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/fr/catalogue/#{category_param}/produits/index.html", "/category_products.fr.html", locals: { category: category }, locale: :fr
-end
-
-I18n.available_locales.each do |locale|
-  ignore "/category_products.#{locale}.html"
+  proxy "/es/catalogo/#{category_param}/productos/index.html", "/category_products.html", locals: { category: category }
 end
 
 # Helpers
@@ -59,11 +41,11 @@ end
 
 helpers do
   def category_name(category)
-    category["#{I18n.locale}_name"].presence || category["es_name"]
+    category["es_name"]
   end
 
   def category_description(category)
-    category["#{I18n.locale}_description"].presence || category["es_description"]
+    category["es_description"]
   end
 
   def category_slug(category)
@@ -75,11 +57,11 @@ helpers do
   end
 
   def product_name(product)
-    product["#{I18n.locale}_name"].presence || product["es_name"]
+    product["es_name"]
   end
 
   def product_description(product)
-    product["#{I18n.locale}_description"].presence || product["es_description"]
+    product["es_description"]
   end
 
   def product_slug(product)

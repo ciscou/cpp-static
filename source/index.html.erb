@@ -1,21 +1,18 @@
-<pre>
-<% data["categories"].each do |category| %>
-mkdir -p category/<%= category["id"] %>
-wget <%= category["picture"]["url"] %> -O tmp.jpg
-cp tmp.jpg category/<%= category["id"] %>/<%= (category["en_name"].presence || category["es_name"]).parameterize %>.jpg
-cp tmp.jpg category/<%= category["id"] %>/<%= (category["es_name"].presence || category["es_name"]).parameterize %>.jpg
-cp tmp.jpg category/<%= category["id"] %>/<%= (category["fr_name"].presence || category["es_name"]).parameterize %>.jpg
-rm tmp.jpg
+---
+title: Inicio
+active_tab: home
+---
 
-<% data["category_#{category["id"]}_products"].each do |product| %>
-mkdir -p product/<%= product["id"] %>
-wget <%= product["picture"]["url"] %> -O tmp.jpg
-cp tmp.jpg product/<%= product["id"] %>/<%= (product["en_name"].presence || product["es_name"]).parameterize %>.jpg
-cp tmp.jpg product/<%= product["id"] %>/<%= (product["es_name"].presence || product["es_name"]).parameterize %>.jpg
-cp tmp.jpg product/<%= product["id"] %>/<%= (product["fr_name"].presence || product["es_name"]).parameterize %>.jpg
-rm tmp.jpg
+<h2>Ultimas novedades</h2>
 
-<% end %>
+<div class="photos">
+  <% new_arrivals.each do |product| %>
+    <div class="photo-wrapper">
+      <% link_to image_path("product/#{product["id"]}/#{product_slug(product)}.jpg"), title: product_name(product), class: "photo thumbnail", data: { description: simple_format(product_description(product)) } do %>
+        <%= image_tag "product/#{product["id"]}/thumb/#{product_slug(product)}.jpg", alt: product_name(product) %>
+      <% end %>
+    </div>
+  <% end %>
+</div>
 
-<% end %>
-</pre>
+<a class="button large expanded see-more-products" href="/es/catalogo">Ver mas productos</a>
