@@ -209,6 +209,11 @@
   background: rgba(254, 254, 254, 0.15);
 }
 
+#blueimp-gallery .title,
+#blueimp-gallery .close {
+  display: block;
+}
+
 #blueimp-gallery .description {
   position: absolute;
   bottom: 0;
