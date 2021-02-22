@@ -209,17 +209,17 @@
   background: rgba(254, 254, 254, 0.15);
 }
 
-#blueimp-gallery .title,
-#blueimp-gallery .close {
-  display: block;
-}
-
 #blueimp-gallery .description {
+  display: none;
   position: absolute;
   bottom: 0;
   padding: 12px;
   color: #bbb;
   font-size: 12px;
+}
+
+#blueimp-gallery.blueimp-gallery-controls .description {
+  display: block;
 }
 
 a.see-more-products {
