@@ -31,24 +31,28 @@
     </div>
     <nav class="overlay-nav" role="navigation">
       <ul id="overlay-nav-menu" class="overlay-nav-menu">
-        <li><a href="/es" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Inicio</a></li>
-        <li><a href="/es/catalogo" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Catalogo</a></li>
-        <li><a href="/es/quienes-somos" class="<%= "is-active" if current_page.data.active_tab == "who" %>">Quienes somos?</a></li>
-        <li><a href="/es/donde-estamos" class="<%= "is-active" if current_page.data.active_tab == "where" %>">Donde estamos?</a></li>
-        <li><a href="/es/contacte-con-nosotros" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contacte con nosotros</a></li>
+        <li><a href="/" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Inicio</a></li>
+        <li><a href="/catalogo" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Catalogo</a></li>
+        <li><a href="/quienes-somos" class="<%= "is-active" if current_page.data.active_tab == "who" %>">Quienes somos?</a></li>
+        <li><a href="/donde-estamos" class="<%= "is-active" if current_page.data.active_tab == "where" %>">Donde estamos?</a></li>
+        <li><a href="/contacte-con-nosotros" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contacte con nosotros</a></li>
       </ul>
       <a data-toggle-menu class="overlay-nav-menu-toggle open" href="#overlay-nav-menu"><i class="fi-list"></i></a>
       <a data-toggle-menu class="overlay-nav-menu-toggle close" href="#overlay-nav-menu"><i class="fi-x"></i></a>
     </nav>
     <header class="subnav-hero-section">
-      <%= image_tag "white-logo.png", class: "logo" %>
-      <h1 class="subnav-hero-headline">Cerámica Padilla Padilla</h1>
+      <% link_to "/" do %>
+        <%= image_tag "white-logo.png", class: "logo" %>
+      <% end %>
+      <% link_to "/" do %>
+        <h1 class="subnav-hero-headline">Cerámica Padilla Padilla</h1>
+      <% end %>
       <ul class="subnav-hero-subnav">
-        <li><a href="/es" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Inicio</a></li>
-        <li><a href="/es/catalogo" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Catalogo</a></li>
-        <li><a href="/es/quienes-somos" class="<%= "is-active" if current_page.data.active_tab == "who" %>">Quienes somos?</a></li>
-        <li><a href="/es/donde-estamos" class="<%= "is-active" if current_page.data.active_tab == "where" %>">Donde estamos?</a></li>
-        <li><a href="/es/contacte-con-nosotros" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contacte con nosotros</a></li>
+        <li><a href="/" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Inicio</a></li>
+        <li><a href="/catalogo" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Catalogo</a></li>
+        <li><a href="/quienes-somos" class="<%= "is-active" if current_page.data.active_tab == "who" %>">Quienes somos?</a></li>
+        <li><a href="/donde-estamos" class="<%= "is-active" if current_page.data.active_tab == "where" %>">Donde estamos?</a></li>
+        <li><a href="/contacte-con-nosotros" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contacte con nosotros</a></li>
       </ul>
     </header>
 
@@ -57,20 +61,9 @@
     </div>
 
     <footer style="background-color: #ddd; padding: 48px 12px; margin-top: 96px">
-      <div class="grid-container">
-        <div class="grid-x">
-          <div class="cell medium-6" style="text-align: center">
-            <span style="color: #d00000; font-weight: bold">
-              <%= image_tag "red-logo.png", style: "width: 30px" %>
-              Ceramica Padilla Padilla
-            </span>
-          </div>
-          <div class="cell medium-6" style="text-align: center">
-            <a href="/en" style="color: #333">English</a> |
-            <a href="/es" style="color: #333">Espanol</a> |
-            <a href="/fr" style="color: #333">Francais</a>
-          </div>
-        </div>
+      <div style="color: #d00000; font-weight: bold; text-align: center">
+        <%= image_tag "red-logo.png", style: "width: 30px" %>
+        Ceramica Padilla Padilla
       </div>
     </footer>
 

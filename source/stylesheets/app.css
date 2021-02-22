@@ -228,42 +228,16 @@ a.see-more-products:hover {
 
 .photos {
   display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  margin-bottom: 1rem;
 }
 
-.photos .photo-wrapper {
-  margin: 0 auto;
+.photos .photo-wrapper a.thumbnail {
+  display: block;
+  margin: 0;
 }
 
-.photos {
-  grid-template-columns: repeat(1, 1fr)
-}
-
-@media (min-width: 250) {
-  .photos {
-    grid-template-columns: repeat(2, 1fr)
-  }
-}
-
-@media (min-width: 360px) {
-  .photos {
-    grid-template-columns: repeat(3, 1fr)
-  }
-}
-
-@media (min-width: 500px) {
-  .photos {
-    grid-template-columns: repeat(4, 1fr)
-  }
-}
-
-@media (min-width: 640px) {
-  .photos {
-    grid-template-columns: repeat(5, 1fr)
-  }
-}
-
-@media (min-width: 750px) {
-  .photos {
-    grid-template-columns: repeat(6, 1fr)
-  }
+.photos .photo-wrapper a img {
+  width: 100%;
 }

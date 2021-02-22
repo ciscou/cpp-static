@@ -29,10 +29,15 @@ page '/*.txt', layout: false
 #   },
 # )
 
+proxy "/catalogo/index.html", "/catalog.html", ignore: true
+proxy "/quienes-somos/index.html", "/who.html", ignore: true
+proxy "/donde-estamos/index.html", "/where.html", ignore: true
+proxy "/contacte-con-nosotros/index.html", "/contact.html", ignore: true
+
 data.categories.each do |category|
   category_name = category["es_name"]
   category_param = [category["id"], category_name.parameterize].join("-")
-  proxy "/es/catalogo/#{category_param}/productos/index.html", "/category_products.html", locals: { category: category }
+  proxy "/catalogo/#{category_param}/productos/index.html", "/category_products.html", locals: { category: category }, ignore: true
 end
 
 # Helpers
