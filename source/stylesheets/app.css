@@ -203,9 +203,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .subnav-hero-subnav li a {
   padding: 0.9rem 1rem;
-  font-size: 0.75rem;
+  font-size: 0.9rem;
   color: #fefefe;
-  text-transform: uppercase;
   display: block;
   font-weight: bold;
   letter-spacing: 1px;
