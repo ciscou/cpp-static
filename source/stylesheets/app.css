@@ -109,8 +109,8 @@
 
 .subnav-hero-section {
   text-align: center;
-  background: rgb(208,0,0);
-  background: linear-gradient(0deg, rgba(208,0,0,1) 0%, rgba(160,0,0,1) 100%);
+  background: #d00000;
+  background: linear-gradient(#a00000, #d00000);
   position: relative;
   overflow: visible;
   height: 200px;
@@ -259,13 +259,15 @@ a.see-more-products:hover {
   bottom: .5rem;
   right: .5rem;
   color: #fff;
-  text-shadow: 0 0 3px #d00000;
+  text-shadow: 0 0 3px #a00000;
   line-height: 1rem;
   font-size: 0.9rem;
 }
 
-.photos .photo-wrapper a.thumbnail:hover {
-  transform: scale(1.1)
+.photos .photo-wrapper a.thumbnail:hover,
+.photos .photo-wrapper a.thumbnail:focus {
+  transform: scale(1.05);
+  box-shadow: 0 0 6px 1px #a00000;
 }
 
 .photos .photo-wrapper a.thumbnail:hover .caption {
