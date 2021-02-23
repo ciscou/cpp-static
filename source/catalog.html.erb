@@ -14,5 +14,5 @@ active_tab: catalog
 
   <%= simple_format category.description %>
 
-  <p>Ver <%= link_to "productos", "/catalogo/#{category.slug}/productos" %><p>
+  <%= link_to "Ver productos", "/catalogo/#{category.slug}/productos", class: "button expanded see-more-products", style: "margin-bottom: 3rem" %>
 <% end %>
