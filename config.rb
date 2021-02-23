@@ -35,7 +35,7 @@ proxy "/donde-estamos/index.html", "/where.html", ignore: true
 proxy "/contacte-con-nosotros/index.html", "/contact.html", ignore: true
 
 data.categories.each do |category|
-  proxy "/catalogo/#{category.es_name.parameterize}/productos/index.html", "/category_products.html", locals: { category: category }, ignore: true
+  proxy "/catalogo/#{category.name.parameterize}/productos/index.html", "/category_products.html", locals: { category: category }, ignore: true
 end
 
 # Helpers
@@ -43,21 +43,13 @@ end
 # https://middlemanapp.com/basics/helper-methods/
 
 helpers do
-  def category_slug(category)
-    category.es_name.parameterize
-  end
-
-  def product_slug(product)
-    product.es_name.parameterize
-  end
-
   def new_arrivals
     data.categories.flat_map do |category|
-      data["category_#{category["id"]}_products"]
+      category.products
     end.select do |product|
-      product["new_arrival"]
+      product.new_arrival
     end.sort_by do |product|
-      product["created_at"]
+      product.id
     end
   end
 end

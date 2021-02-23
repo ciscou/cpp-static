@@ -4,15 +4,15 @@ active_tab: catalog
 ---
 
 <% data.categories.each do |category| %>
-  <h2><%= category.es_name %></h2>
+  <h2><%= category.name %></h2>
 
   <p>
-    <% link_to "/catalogo/#{category_slug(category)}/productos" do %>
-      <%= image_tag "category/#{category["id"]}/#{category_slug(category)}.jpg" %>
+    <% link_to "/catalogo/#{category.slug}/productos" do %>
+      <%= image_tag "category/#{category.id}/#{category.slug}.jpg" %>
     <% end %>
   </p>
 
-  <%= simple_format category.es_description %>
+  <%= simple_format category.description %>
 
-  <p>Ver <%= link_to "productos", "/catalogo/#{category_slug(category)}/productos" %><p>
+  <p>Ver <%= link_to "productos", "/catalogo/#{category.slug}/productos" %><p>
 <% end %>

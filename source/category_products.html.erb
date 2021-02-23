@@ -3,13 +3,13 @@ title: Cerámica Padilla Padilla
 active_tab: catalog
 ---
 
-<h2><%= category.es_name %></h2>
+<h2><%= category.name %></h2>
 
 <div class="photos">
-  <% data["category_#{category["id"]}_products"].each do |product| %>
+  <% category.products.each do |product| %>
     <div class="photo-wrapper">
-      <% link_to image_path("product/#{product["id"]}/#{product_slug(product)}.jpg"), title: product.es_name, class: "photo thumbnail", data: { description: simple_format(product.es_description) } do %>
-        <%= image_tag "product/#{product["id"]}/thumb/#{product_slug(product)}.jpg", alt: product.es_name %>
+      <% link_to image_path("product/#{product.id}/#{product.slug}.jpg"), title: product.name, class: "photo thumbnail", data: { description: simple_format(product.description) } do %>
+        <%= image_tag "product/#{product.id}/thumb/#{product.slug}.jpg", alt: product.name %>
       <% end %>
     </div>
   <% end %>

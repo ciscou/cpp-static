@@ -1,0 +1,1464 @@
+---
+- id: 2
+  slug: modelos-de-jardineria
+  name: Modelos de jardinería
+  description: "Para decorar y alegrar tu casa, las macetas maceteros y jardineras
+    es la solución ideal. Si dispones de balcón,  patio o en la repisa de una ventana,
+    aprovecha cualquier lugar para poner jardineras, macetas de pared y maceteros.\r\n\r\nEstos
+    son los productos que fabricamos en la sección de jardinería.\r\n\r\nPerfectos
+    para su jardín, casa o chalet."
+  products:
+  - id: 368
+    slug: modelos-macetas-de-jardineria-decorada
+    name: MODELOS MACETAS DE  JARDINERIA  DECORADA
+    description: ''
+    new_arrival: false
+  - id: 367
+    slug: maceta-jardineria-modelo-olla-dos-asa
+    name: Maceta jardinería modelo olla dos asa.
+    description: La jardinería es una actividad de múltiples beneficios.
+    new_arrival: false
+  - id: 365
+    slug: maceta-jardineria-modelo-agosto
+    name: Maceta jardinería Modelo agosto
+    description: 'La jardinería es una gran actividad para compartir en familia, un
+      proyecto en el que pueden participar desde los niños hasta las personas de la
+      tercera edad.  '
+    new_arrival: false
+  - id: 364
+    slug: maceta-jardineria-modelo-andalucia
+    name: Maceta jardinería Modelo  Andalucía
+    description: La jardinería-huerto puede brindarle alimentos a bajo coste, es una
+      excelente manera de enseñarle a los niños sobre la ecología local y la conservación
+      del medio ambiente.
+    new_arrival: false
+  - id: 363
+    slug: maceta-jardineria-modelo-bailen
+    name: Maceta jardinería Modelo Bailén
+    description: La jardinería-huerto es una actividad para hacerle entender mejor
+      la naturaleza, y le permite contribuir con su trabajo a la alimentación familiar.
+    new_arrival: false
+  - id: 362
+    slug: maceta-jardineria-modelo-banos
+    name: Maceta jardinería Modelo  Baños
+    description: "Las macetas con flores embellecen tu casa.\r\n"
+    new_arrival: false
+  - id: 361
+    slug: maceta-jardineria-modelo-botija-sin
+    name: Maceta jardinería Modelo   botija sin
+    description: "Las jardineras con plantas engalanan tus balcones y rincones de
+      tu hogar.\r\n"
+    new_arrival: false
+  - id: 360
+    slug: maceta-jardineria-modelo-cilindro
+    name: Maceta jardinería Modelo  cilindro
+    description: "El jardín de tu casa sera mucho mas bonito\r\ncon maceteros decorados."
+    new_arrival: false
+  - id: 358
+    slug: maceta-jardineria-modelo-margarita
+    name: Maceta jardinería Modelo margarita
+    description: En la jardinería podemos ahorrar, ya que muchos nos hemos visto afectados
+      por el rápido aumento de los precios de los alimentos, los jardines huerto se
+      van volviendo cada vez mas populares para obtener productos muy frescos y saludables.
+    new_arrival: false
+  - id: 294
+    slug: jardineria-decorada-orzas-y-marbellas
+    name: JARDINERIA DECORADA  ORZAS Y MARBELLAS,
+    description: ''
+    new_arrival: false
+  - id: 293
+    slug: jardineria-decorada-bolas-de-trenza
+    name: JARDINERIA DECORADA  BOLAS DE TRENZA
+    description: ''
+    new_arrival: false
+  - id: 292
+    slug: jardineria-decorada-macetas-campana
+    name: Jardineria decorada Macetas campana
+    description: ''
+    new_arrival: false
+  - id: 291
+    slug: jardineria-decorada-cestas
+    name: JARDINERIA DECORADA CESTAS,
+    description: ''
+    new_arrival: false
+  - id: 289
+    slug: jardineria-decorada-cocos
+    name: JARDINERIA DECORADA COCOS
+    description: ''
+    new_arrival: false
+  - id: 286
+    slug: jardineria-decorada-grupos-de-suelo
+    name: JARDINERIA DECORADA  GRUPOS DE SUELO
+    description: ''
+    new_arrival: false
+  - id: 285
+    slug: jardineria-decorada-jardineras
+    name: JARDINERIA DECORADA  JARDINERAS
+    description: ''
+    new_arrival: false
+  - id: 281
+    slug: jardineria-decorada-macetas-de-pared
+    name: JARDINERIA DECORADA  MACETAS DE PARED
+    description: ''
+    new_arrival: false
+  - id: 280
+    slug: jardineria-decorada-macetas-suelo
+    name: JARDINERIA DECORADA  MACETAS SUELO
+    description: ''
+    new_arrival: false
+  - id: 279
+    slug: jardineria-decorada-mallorquinas-bajas
+    name: JARDINERIA DECORADA  MALLORQUINAS BAJAS
+    description: ''
+    new_arrival: false
+  - id: 278
+    slug: jardineria-decorada-mallorquinas
+    name: JARDINERIA DECORADA  MALLORQUINAS
+    description: ''
+    new_arrival: false
+  - id: 276
+    slug: jardineria-decorada-orzas-de-pared
+    name: JARDINERIA DECORADA   ORZAS DE PARED
+    description: ''
+    new_arrival: false
+  - id: 275
+    slug: jardineria-decorada-platos-de-maceta
+    name: JARDINERIA  DECORADA  PLATOS DE MACETA
+    description: ''
+    new_arrival: false
+  - id: 274
+    slug: jardineria-decorada-tinajas
+    name: JARDINERIA DECORADA  TINAJAS
+    description: ''
+    new_arrival: false
+  - id: 140
+    slug: fregaderos-y-lavabos-decorados
+    name: FREGADEROS Y LAVABOS DECORADOS
+    description: ''
+    new_arrival: false
+  - id: 9
+    slug: jardineria-decorada-orzas
+    name: JARDINERIA  DECORADA  ORZAS
+    description: ''
+    new_arrival: false
+- id: 8
+  slug: decoraciones-de-jardineria
+  name: Decoraciones de jardinería
+  description: "Estas son las decoraciones disponibles para todos los modelos de jardinería.\r\n\r\nTodos
+    nuestros productos están pintados a mano."
+  products:
+  - id: 704
+    slug: maceta-25-5x22-5cm
+    name: Maceta 25´5X22´5cm.
+    description: ''
+    new_arrival: true
+  - id: 700
+    slug: coco-34x31cm
+    name: Coco 34x31cm.
+    description: ''
+    new_arrival: true
+  - id: 671
+    slug: macetas-pared
+    name: Macetas pared  ---
+    description: ''
+    new_arrival: true
+  - id: 670
+    slug: jardineras
+    name: Jardineras--
+    description: ''
+    new_arrival: true
+  - id: 669
+    slug: cocos
+    name: Cocos-
+    description: ''
+    new_arrival: true
+  - id: 668
+    slug: mallorquinas
+    name: Mallorquinas......
+    description: ''
+    new_arrival: true
+  - id: 667
+    slug: macetas-suelo
+    name: Macetas suelo.....
+    description: ''
+    new_arrival: true
+  - id: 666
+    slug: macetas-de-suelo
+    name: Macetas de suelo.....
+    description: ''
+    new_arrival: true
+  - id: 665
+    slug: macetas-de-pared
+    name: Macetas de pared......
+    description: ''
+    new_arrival: true
+  - id: 664
+    slug: jardineras
+    name: Jardineras......
+    description: ''
+    new_arrival: true
+  - id: 663
+    slug: mallorquinas
+    name: Mallorquinas.....
+    description: ''
+    new_arrival: true
+  - id: 662
+    slug: cocos
+    name: Cocos.....
+    description: ''
+    new_arrival: false
+  - id: 661
+    slug: orzas-de-pared
+    name: Orzas de pared
+    description: ''
+    new_arrival: false
+  - id: 660
+    slug: menorquinas
+    name: Menorquinas.....
+    description: ''
+    new_arrival: false
+  - id: 659
+    slug: menorquinas
+    name: Menorquinas...
+    description: ''
+    new_arrival: false
+  - id: 657
+    slug: macetas-de-pared
+    name: Macetas de pared.....
+    description: ''
+    new_arrival: false
+  - id: 656
+    slug: macetas-de-suelo
+    name: Macetas de suelo....
+    description: ''
+    new_arrival: false
+  - id: 655
+    slug: jardineras
+    name: Jardineras....
+    description: ''
+    new_arrival: false
+  - id: 654
+    slug: mallorquinas
+    name: Mallorquinas....
+    description: ''
+    new_arrival: false
+  - id: 653
+    slug: cocos
+    name: Cocos....
+    description: ''
+    new_arrival: false
+  - id: 652
+    slug: macetas-de-suelo
+    name: Macetas de suelo...
+    description: ''
+    new_arrival: false
+  - id: 651
+    slug: macetas-de-pared
+    name: Macetas de pared....
+    description: ''
+    new_arrival: false
+  - id: 650
+    slug: mallorquinas
+    name: Mallorquinas...
+    description: ''
+    new_arrival: false
+  - id: 649
+    slug: cocos
+    name: Cocos...
+    description: ''
+    new_arrival: false
+  - id: 648
+    slug: jardineras
+    name: Jardineras...
+    description: ''
+    new_arrival: false
+  - id: 645
+    slug: cocos
+    name: "-  Cocos"
+    description: ''
+    new_arrival: false
+  - id: 644
+    slug: macetas-de-suelo
+    name: "-  Macetas de suelo"
+    description: ''
+    new_arrival: false
+  - id: 643
+    slug: mallorquinas
+    name: "-  Mallorquinas"
+    description: ''
+    new_arrival: false
+  - id: 642
+    slug: jardineras
+    name: "-  Jardineras"
+    description: ''
+    new_arrival: false
+  - id: 641
+    slug: macetas-pared
+    name: "-Macetas pared"
+    description: ''
+    new_arrival: false
+  - id: 640
+    slug: macetas-de-suelo
+    name: Macetas de suelo-
+    description: ''
+    new_arrival: false
+  - id: 639
+    slug: macetas-de-pared
+    name: Macetas de pared-
+    description: ''
+    new_arrival: false
+  - id: 638
+    slug: mallorquinas
+    name: Mallorquinas-
+    description: ''
+    new_arrival: false
+  - id: 637
+    slug: jardineras
+    name: jardineras
+    description: ''
+    new_arrival: false
+  - id: 636
+    slug: mallorquinas
+    name: Mallorquinas
+    description: ''
+    new_arrival: false
+  - id: 635
+    slug: jardineras
+    name: Jardineras
+    description: ''
+    new_arrival: false
+  - id: 634
+    slug: macetas-de-pared
+    name: Macetas de pared.
+    description: ''
+    new_arrival: false
+  - id: 633
+    slug: macetas-de-suelo
+    name: macetas de suelo
+    description: ''
+    new_arrival: false
+  - id: 632
+    slug: macetas-de-suelo
+    name: Macetas de suelo
+    description: ''
+    new_arrival: false
+  - id: 631
+    slug: jardineras
+    name: Jardineras.
+    description: ''
+    new_arrival: false
+  - id: 630
+    slug: mallorquinas
+    name: Mallorquinas,
+    description: ''
+    new_arrival: false
+  - id: 629
+    slug: macetas-pared
+    name: macetas pared,
+    description: ''
+    new_arrival: false
+  - id: 628
+    slug: mallorquinas
+    name: Mallorquinas.
+    description: ''
+    new_arrival: false
+  - id: 627
+    slug: jardineras
+    name: Jardineras..
+    description: ''
+    new_arrival: false
+  - id: 626
+    slug: macetas-de-pared
+    name: Macetas de pared
+    description: ''
+    new_arrival: false
+  - id: 625
+    slug: macetas-de-suelo
+    name: Macetas de suelo.
+    description: ''
+    new_arrival: false
+  - id: 403
+    slug: tinaja-de-pared
+    name: Tinaja de pared
+    description: ''
+    new_arrival: false
+  - id: 373
+    slug: cocos-campanas-y-marbellas
+    name: cocos. campanas y  marbellas
+    description: ''
+    new_arrival: false
+  - id: 371
+    slug: campanas-cocos-y-marbellas
+    name: Campanas, cocos y marbellas
+    description: ''
+    new_arrival: false
+  - id: 354
+    slug: decoracion-blue-orange
+    name: Decoración blue orange
+    description: ''
+    new_arrival: false
+  - id: 351
+    slug: maceta-redonda
+    name: Maceta redonda
+    description: ''
+    new_arrival: false
+  - id: 350
+    slug: maceta-de-colgar
+    name: Maceta de colgar
+    description: ''
+    new_arrival: false
+  - id: 348
+    slug: maceta-redonda
+    name: Maceta redonda.
+    description: ''
+    new_arrival: false
+  - id: 347
+    slug: maceta-redonda
+    name: Maceta redonda,
+    description: ''
+    new_arrival: false
+  - id: 332
+    slug: maceta-cuadrada
+    name: Maceta cuadrada
+    description: ''
+    new_arrival: false
+  - id: 314
+    slug: coco-n-4
+    name: coco nº 4
+    description: ''
+    new_arrival: false
+  - id: 310
+    slug: cocos-mallorquinas-etc
+    name: COCOS, MALLORQUINAS, ETC.
+    description: ''
+    new_arrival: false
+  - id: 302
+    slug: mallorquinas-y-cocos-etc
+    name: MALLORQUINAS Y COCOS ETC.
+    description: ''
+    new_arrival: false
+  - id: 258
+    slug: jardinera
+    name: JARDINERA
+    description: ''
+    new_arrival: false
+  - id: 252
+    slug: mallorquinas-cocos
+    name: MALLORQUINAS, COCOS
+    description: ''
+    new_arrival: false
+  - id: 251
+    slug: cocos-mallorquinas
+    name: COCOS, MALLORQUINAS,
+    description: ''
+    new_arrival: false
+  - id: 249
+    slug: coco-mallorquinas
+    name: COCO,  MALLORQUINAS
+    description: ''
+    new_arrival: false
+  - id: 247
+    slug: cocos-cocos-planos-etc
+    name: COCOS, COCOS PLANOS, ETC.
+    description: ''
+    new_arrival: false
+  - id: 246
+    slug: mallorquinas
+    name: mallorquinas
+    description: ''
+    new_arrival: false
+- id: 7
+  slug: modelos-de-menaje
+  name: Modelos de menaje..
+  description: "Estos son los modelos de menaje que fabricamos.\r\n\r\nEstos modelos
+    se pueden ver en otros decorados en la sección \"Decoraciones de menaje\". "
+  products:
+  - id: 705
+    slug: ref-571-y-572
+    name: Ref. 571 y 572
+    description: ''
+    new_arrival: false
+  - id: 597
+    slug: gazpachera
+    name: Gazpachera.
+    description: ''
+    new_arrival: false
+  - id: 596
+    slug: vaso-con-asa-decorado
+    name: vaso con asa decorado
+    description: ''
+    new_arrival: false
+  - id: 595
+    slug: cuchara-decorada
+    name: cuchara decorada.
+    description: ''
+    new_arrival: false
+  - id: 594
+    slug: gazpachera-conica
+    name: Gazpachera conica.
+    description: ''
+    new_arrival: false
+  - id: 593
+    slug: entremesero-cuatro-huecos-f
+    name: Entremesero  cuatro huecos F
+    description: ''
+    new_arrival: false
+  - id: 316
+    slug: bandejas-de-ceramica
+    name: Bandejas de ceramica
+    description: Bandejas de cerámica decoradas
+    new_arrival: false
+  - id: 301
+    slug: tarros-de-cocina-ajeros-y-especieros-de-ceramica
+    name: Tarros de cocina. ajeros y especieros de ceramica.
+    description: Tarros para cocina de cerámica,  diseño exclusivo , con tapa, pintados
+      a mano. dispongo de tarro de arroz, azucar, harina etc.
+    new_arrival: false
+  - id: 300
+    slug: cuencos-de-ceramica
+    name: Cuencos de ceramica.
+    description: Cuencos de cocina con borde redondeado para evitar daños. Muy resistentes.
+    new_arrival: false
+  - id: 299
+    slug: bolsa-floreros-jarrones-portacartas-joyero-y-dedales-de-ceramica
+    name: Bolsa, floreros,   jarrones , portacartas, joyero y dedales de ceramica.
+    description: Floreros para centros de mesa,estas son muchas ideas que tu puedes
+      adoptar en tu hogar ,cada florero trae consigo nuevas sensaciones.
+    new_arrival: false
+  - id: 298
+    slug: jarras-de-ceramica
+    name: Jarras de ceramica.
+    description: ''
+    new_arrival: false
+  - id: 297
+    slug: fuentes-de-ceramica
+    name: Fuentes de ceramica.
+    description: ''
+    new_arrival: false
+  - id: 236
+    slug: juegos-de-lavabo
+    name: Juegos de lavabo
+    description: JUEGO DE LAVABO, PARA DECORACIÓN  Y USO
+    new_arrival: false
+  - id: 235
+    slug: aguamanil
+    name: Aguamanil
+    description: ''
+    new_arrival: false
+  - id: 234
+    slug: ensaladeras-rectangulares-y-ensaladeras-cuadradas
+    name: Ensaladeras rectangulares y ensaladeras  cuadradas
+    description: ''
+    new_arrival: false
+  - id: 233
+    slug: cuencos-cuadrados
+    name: " Cuencos cuadrados "
+    description: ''
+    new_arrival: false
+  - id: 231
+    slug: bandejas-de-pez-etc
+    name: Bandejas de pez, etc
+    description: ''
+    new_arrival: false
+  - id: 230
+    slug: cuencos-triangulares-y-ensaladeras-triangulares
+    name: " Cuencos triangulares y ensaladeras triangulares."
+    description: ''
+    new_arrival: false
+  - id: 229
+    slug: cuencos-asas-etc
+    name: Cuencos asas etc.
+    description: ''
+    new_arrival: false
+  - id: 228
+    slug: queseras-mantequilleras-servilleteros
+    name: Queseras, mantequilleras, servilleteros
+    description: ''
+    new_arrival: false
+  - id: 226
+    slug: juego-de-cafe
+    name: Juego de café
+    description: ''
+    new_arrival: false
+  - id: 225
+    slug: patatero-relojes-palmatorias-tarros-apilables
+    name: Patatero, relojes ,palmatorias, tarros apilables
+    description: ''
+    new_arrival: false
+  - id: 224
+    slug: fruteros-y-platos-de-queso
+    name: Fruteros y platos de queso
+    description: ''
+    new_arrival: false
+  - id: 223
+    slug: porta-rollos-de-cocina-paneras-escuridor-y-cerillero
+    name: 'Porta rollos de cocina, paneras, escuridor y cerillero , '
+    description: ''
+    new_arrival: false
+  - id: 221
+    slug: cestas-asa-rizada-y-cestas-asa-lisa
+    name: Cestas asa rizada y cestas asa lisa.
+    description: ''
+    new_arrival: false
+  - id: 220
+    slug: lamparas-de-techo
+    name: Lamparas de techo
+    description: ''
+    new_arrival: false
+  - id: 219
+    slug: farol-y-apliques-de-pared
+    name: Farol y apliques de pared
+    description: ''
+    new_arrival: false
+  - id: 218
+    slug: bandejas
+    name: Bandejas-
+    description: BANDEJAS, CERÁMICA, DECORACIÓN,MENAJE
+    new_arrival: false
+  - id: 217
+    slug: platos-cuadrados
+    name: Platos cuadrados
+    description: platos cuadrados,cerámica,menaje,decoración.
+    new_arrival: false
+  - id: 216
+    slug: tazas-tazones-vasos
+    name: Tazas, tazones, vasos
+    description: ''
+    new_arrival: false
+  - id: 215
+    slug: tetera-vuelcatortillas-salvamanteles-hueveras-etc
+    name: Tetera, vuelcatortillas, salvamanteles,   hueveras, etc
+    description: ''
+    new_arrival: false
+  - id: 214
+    slug: escurre-cubiertos-morteros-estropajeros-salsera-posacucharas
+    name: 'Escurre cubiertos, morteros, estropajeros, salsera, posacucharas '
+    description: ''
+    new_arrival: false
+  - id: 213
+    slug: aceiteras-de-cocina-y-aceiteras-y-vinagreras
+    name: Aceiteras de cocina y aceiteras y vinagreras
+    description: ''
+    new_arrival: false
+  - id: 211
+    slug: jarras
+    name: Jarras
+    description: ''
+    new_arrival: false
+  - id: 210
+    slug: ceniceros-y-ceniceros-de-agua
+    name: Ceniceros y ceniceros de agua
+    description: ''
+    new_arrival: false
+  - id: 209
+    slug: utensilios-de-bano-portarrolos-de-bano-dosificadores-de-jabon-portacepillos-jaboneras-y-jaboneras-de-pared
+    name: Utensilios de baño, portarrolos de baño, dosificadores de jabon, portacepillos,jaboneras
+      y jaboneras de pared.
+    description: ''
+    new_arrival: false
+  - id: 208
+    slug: saleros-de-pared-azucareros-perejileros-saleros-y-pimenteros-posa-huevos
+    name: Saleros de pared, azucareros, perejileros, saleros y pimenteros, posa huevos.
+    description: ''
+    new_arrival: false
+  - id: 207
+    slug: tarro-de-aceitunas-plato-de-aceitunas-huesos-bandeja-aceitunas-cuencos-tres-picos-y-posa-cacaos
+    name: Tarro de aceitunas, plato de aceitunas huesos, bandeja aceitunas, cuencos
+      tres picos y posa cacaos
+    description: ''
+    new_arrival: false
+  - id: 206
+    slug: cubremacetas-y-macetas-de-pared
+    name: Cubremacetas y macetas de pared
+    description: ''
+    new_arrival: false
+  - id: 205
+    slug: orzas-de-pared-y-piletas-de-pared
+    name: Orzas de pared y piletas de pared
+    description: ''
+    new_arrival: false
+  - id: 204
+    slug: bandejas
+    name: Bandejas
+    description: ''
+    new_arrival: false
+  - id: 203
+    slug: entremeseros
+    name: Entremeseros
+    description: ''
+    new_arrival: false
+  - id: 201
+    slug: cuencos-cinco-picos-y-fuentes-octogonales
+    name: Cuencos cinco picos  y fuentes octogonales
+    description: ''
+    new_arrival: false
+  - id: 200
+    slug: ensaladeras-redondas
+    name: Ensaladeras redondas
+    description: ''
+    new_arrival: false
+  - id: 198
+    slug: cuencos-cuadrados
+    name: 'Cuencos cuadrados '
+    description: ''
+    new_arrival: false
+  - id: 197
+    slug: cuencos-rizados-y-bol
+    name: Cuencos rizados y bol
+    description: ''
+    new_arrival: false
+  - id: 196
+    slug: bol-extra-cuencos-asas-etc
+    name: Bol extra, cuencos asas.  etc.
+    description: ''
+    new_arrival: false
+  - id: 195
+    slug: barcas-cuenco-cuatro-picos-tulipa
+    name: Barcas, cuenco cuatro picos, tulipa.
+    description: ''
+    new_arrival: false
+  - id: 194
+    slug: platos-de-vajilla-redondos-llanos-redondos-y-postre
+    name: Platos de vajilla redondos, Llanos, redondos y postre
+    description: ''
+    new_arrival: false
+  - id: 193
+    slug: platos-de-vajilla-cuadrados-y-platos-de-chuleton
+    name: Platos de vajilla cuadrados y platos de chuletón
+    description: ''
+    new_arrival: false
+- id: 3
+  slug: decoraciones-de-menaje
+  name: Decoraciones de menaje
+  description: "Estas son las decoraciones disponibles para todos los modelos de menaje.\r\n\r\nTodos
+    nuestros productos están pintados a mano.\r\n\r\n\r\n"
+  products:
+  - id: 707
+    slug: bandejas-ref-571-y-572
+    name: 'Bandejas Ref. 571 y  572 '
+    description: Bandejas
+    new_arrival: true
+  - id: 702
+    slug: bolsa-15x13x9cm
+    name: Bolsa 15x13x9cm.
+    description: ''
+    new_arrival: true
+  - id: 701
+    slug: vaso-con-asa-10x11-5cm
+    name: Vaso con asa 10x11´5cm.
+    description: ''
+    new_arrival: true
+  - id: 699
+    slug: cenicero-20x11cm
+    name: Cenicero 20x11cm.
+    description: ''
+    new_arrival: true
+  - id: 698
+    slug: gaspachera-26x12-5cm
+    name: Gaspachéra 26x12´5cm.
+    description: ''
+    new_arrival: true
+  - id: 697
+    slug: ensaladera-redonda-23x6cm
+    name: Ensaladera redonda  23x6cm.
+    description: ''
+    new_arrival: true
+  - id: 696
+    slug: ensaladera-rectangular-27x20-cm
+    name: Ensaladera rectangular  27x20 cm,
+    description: ''
+    new_arrival: true
+  - id: 695
+    slug: cuenco-conico-26x12-5cm
+    name: Cuenco cónico 26x12´5cm.
+    description: ''
+    new_arrival: true
+  - id: 693
+    slug: ensaladera-rectangular-27x20cm
+    name: Ensaladera rectangular  27x20cm.
+    description: ''
+    new_arrival: true
+  - id: 692
+    slug: cuchara-27x10-cm
+    name: Cuchara 27x10 cm.
+    description: ''
+    new_arrival: true
+  - id: 691
+    slug: ensaladera-cuadrada-22x22-cm
+    name: Ensaladera cuadrada  22x22 cm.
+    description: ''
+    new_arrival: true
+  - id: 690
+    slug: cuenco-triangular-11cm
+    name: Cuenco triangular  11cm.
+    description: ''
+    new_arrival: true
+  - id: 687
+    slug: decoracion-c-t
+    name: Decoración  C-T,
+    description: ''
+    new_arrival: true
+  - id: 686
+    slug: decoracion-c-t
+    name: Decoración  C-T.
+    description: ''
+    new_arrival: true
+  - id: 685
+    slug: decoracion-c-t
+    name: Decoración  C-T
+    description: ''
+    new_arrival: true
+  - id: 684
+    slug: ensaladera-rectangular
+    name: Ensaladera rectangular
+    description: ''
+    new_arrival: true
+  - id: 683
+    slug: jarras-extra
+    name: Jarras extra.
+    description: ''
+    new_arrival: true
+  - id: 682
+    slug: bol-n-2
+    name: Bol  nº 2
+    description: ''
+    new_arrival: true
+  - id: 680
+    slug: ensaladera-27-cmt
+    name: Ensaladera 27 cmt
+    description: ''
+    new_arrival: true
+  - id: 679
+    slug: cuenco-pequeno
+    name: Cuenco pequeño
+    description: ''
+    new_arrival: true
+  - id: 678
+    slug: jarra
+    name: "  Jarra.-"
+    description: ''
+    new_arrival: true
+  - id: 676
+    slug: fuente-20-cmt
+    name: Fuente 20 cmt
+    description: ''
+    new_arrival: true
+  - id: 616
+    slug: posacucharas-medidas-10x28-cm
+    name: 'Posacucharas medidas 10x28 cm. '
+    description: ''
+    new_arrival: false
+  - id: 615
+    slug: vaso-asa-conico-medidas-9-5x11-cm
+    name: Vaso asa conico medidas 9´5x11 cm.
+    description: ''
+    new_arrival: false
+  - id: 614
+    slug: bolsas-ref-6801-medidas-15x13x9-cm-ref-6802-medidas-13x9x7-cm
+    name: Bolsas. Ref. 6801 medidas 15x13x9 cm.       Ref. 6802 medidas  13x9x7 cm.
+    description: ''
+    new_arrival: false
+  - id: 613
+    slug: cuenco-cuatro-picos-medidas-25x10-cm
+    name: Cuenco cuatro picos medidas 25x10 cm.
+    description: ''
+    new_arrival: false
+  - id: 612
+    slug: plato-7-h-medidas-33x4-cm
+    name: Plato 7 H  medidas 33x4 cm.
+    description: ''
+    new_arrival: false
+  - id: 611
+    slug: rameado-rojo
+    name: Rameado rojo
+    description: ''
+    new_arrival: false
+  - id: 610
+    slug: rameado-azul
+    name: Rameado azul
+    description: ''
+    new_arrival: false
+  - id: 608
+    slug: cuenco-cuatro-picos-medidas-25x10-cm
+    name: Cuenco cuatro picos medidas 25x10 cm..
+    description: ''
+    new_arrival: false
+  - id: 605
+    slug: bol
+    name: Bol
+    description: Bol de cerámica, para adornar y usar en su mesa y cocina
+    new_arrival: true
+  - id: 604
+    slug: cuencos
+    name: Cuencos
+    description: Bonitos cuencos de ceramica
+    new_arrival: true
+  - id: 588
+    slug: aceitera-bol-y-ensaladeras
+    name: Aceitera, bol y ensaladeras
+    description: ''
+    new_arrival: true
+  - id: 587
+    slug: enfriador-de-botellas-vasos-con-asa-y-cuchara
+    name: Enfriador de botellas, vasos con asa y cuchara
+    description: ''
+    new_arrival: true
+  - id: 586
+    slug: gazpachera-conica-peces
+    name: gazpachera conica, peces
+    description: ''
+    new_arrival: true
+  - id: 576
+    slug: plato-chuleton
+    name: 'Plato chuletón:'
+    description: ''
+    new_arrival: true
+  - id: 575
+    slug: plato-alfarero
+    name: Plato alfarero
+    description: ''
+    new_arrival: true
+  - id: 573
+    slug: cuencos
+    name: 'cuencos:'
+    description: ''
+    new_arrival: false
+  - id: 572
+    slug: cuencos
+    name: "-Cuencos-"
+    description: ''
+    new_arrival: false
+  - id: 570
+    slug: cuenco-conico-decoracion-azul-14
+    name: Cuenco conico decoración azul 14
+    description: ''
+    new_arrival: true
+  - id: 569
+    slug: cuenco-aceitera-barca-cuchara-decoracion-flor-14
+    name: cuenco, aceitera, barca, cuchara, decoración flor 14
+    description: ''
+    new_arrival: true
+  - id: 568
+    slug: ensaladeras-decoracion-azul-celeste
+    name: Ensaladeras decoración azul celeste
+    description: ''
+    new_arrival: true
+  - id: 554
+    slug: ensaladeras-decoracion-azul-y-rojo
+    name: Ensaladeras decoración azul y rojo
+    description: ''
+    new_arrival: true
+  - id: 553
+    slug: ensaladeras-decoracion-verde-y-amarillo
+    name: Ensaladeras decoración verde y amarillo
+    description: ''
+    new_arrival: true
+  - id: 517
+    slug: bol-23x8-cmt
+    name: Bol 23x8 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 484
+    slug: ensaladera-25-cm
+    name: ENSALADERA 25 Cm.
+    description: ''
+    new_arrival: false
+  - id: 468
+    slug: decoracion-rayas-y-puntos
+    name: DECORACIÓN RAYAS Y PUNTOS
+    description: "Producto patentado y Registrado\r\nCeramica Padilla Padilla\r\nBailén-Jaén\r\n
+      \  ESPAÑA"
+    new_arrival: false
+  - id: 467
+    slug: decoracion-flores-r-a
+    name: DECORACIÓN FLORES  R. A.
+    description: "Producto registrado y patentado\r\nCeramica Padilla Padilla\r\nBailen-Jaén\r\n
+      \  ESPAÑA"
+    new_arrival: false
+  - id: 433
+    slug: cuenco-especial
+    name: Cuenco especial
+    description: ''
+    new_arrival: false
+  - id: 432
+    slug: gran-plato-alfarero
+    name: Gran plato alfarero
+    description: ''
+    new_arrival: false
+  - id: 404
+    slug: jarra-ensaladera-y-cenicero-de-agua
+    name: Jarra,ensaladera y cenicero de agua
+    description: ''
+    new_arrival: false
+  - id: 395
+    slug: ensaladera-jarra-y-cenicero
+    name: Ensaladera, jarra y cenicero
+    description: ''
+    new_arrival: false
+  - id: 394
+    slug: bolsa-y-cesta
+    name: Bolsa y cesta
+    description: ''
+    new_arrival: false
+  - id: 393
+    slug: bol-y-maceta
+    name: bol y maceta
+    description: ''
+    new_arrival: false
+  - id: 392
+    slug: maceta-y-jarra
+    name: maceta y jarra.
+    description: ''
+    new_arrival: false
+  - id: 390
+    slug: jarra-y-ensaladera
+    name: jarra y ensaladera
+    description: ''
+    new_arrival: false
+  - id: 388
+    slug: cuenco-jarra
+    name: cuenco, jarra
+    description: ''
+    new_arrival: false
+  - id: 387
+    slug: jarra-ensaladera
+    name: jarra, ensaladera.
+    description: ''
+    new_arrival: false
+  - id: 386
+    slug: jarritas-y-plato-de-colgar-22-ctm
+    name: JARRITAS Y PLATO DE COLGAR 22 CTM.
+    description: ''
+    new_arrival: false
+  - id: 380
+    slug: ensaladera-30-cmt
+    name: Ensaladera 30 cmt.
+    description: ''
+    new_arrival: false
+  - id: 379
+    slug: ensaladera-rectangular-y-cuenco
+    name: Ensaladera rectangular y cuenco
+    description: ''
+    new_arrival: false
+  - id: 374
+    slug: cuenco-cuadrado-y-cuenco
+    name: Cuenco cuadrado y cuenco
+    description: ''
+    new_arrival: false
+  - id: 352
+    slug: juego-de-lavabo
+    name: Juego de lavabo
+    description: ''
+    new_arrival: false
+  - id: 324
+    slug: jarra-ensaladera-y-cenicero-de-agua
+    name: Jarra, ensaladera y cenicero de agua
+    description: ''
+    new_arrival: false
+  - id: 323
+    slug: bol-aceiteras-fuentes
+    name: Bol, aceiteras,fuentes
+    description: ''
+    new_arrival: false
+  - id: 267
+    slug: ensaladeras-y-cuencos
+    name: ENSALADERAS Y CUENCOS
+    description: ''
+    new_arrival: false
+  - id: 263
+    slug: jarras-ensaladeras
+    name: JARRAS, ENSALADERAS
+    description: ''
+    new_arrival: false
+  - id: 145
+    slug: salero-azucarero-y-ensaladera-cuadrada
+    name: Salero, azucarero y ensaladera cuadrada
+    description: ''
+    new_arrival: false
+- id: 14
+  slug: combinado-de-productos-y-decorados-de-menaje
+  name: Combinado de productos y decorados de MENAJE
+  description: En este apartado podrá encontrar una combinación de los modelos de
+    MENAJE con diferentes decorados.
+  products:
+  - id: 537
+    slug: bandejas-jaboneras-con-y-sin-agujeros-15x12-cm
+    name: Bandejas jaboneras con y sin agujeros  15x12 Cm.
+    description: 'Podemos llevar estas bandejas jaboneras a cualquier parte de nuestro
+      hogar. Además,  no tienen un único uso, sino que podemos utilizarlas en función
+      de nuestras necesidades. '
+    new_arrival: false
+  - id: 533
+    slug: plato-aceitunas-huesos-15x5-cm
+    name: Plato aceitunas-huesos  15x5 Cm.
+    description: Plato aceitunas y huesos - de 15 cm. Fabricado todo de una pieza,
+      con 2 departamentos uno para las aceitunas y el otro mas pequeño para los huesos.
+    new_arrival: false
+  - id: 532
+    slug: mantequillera-23x12-cm
+    name: Mantequillera  23x12 Cm.
+    description: Para mantequilla y mermelada.
+    new_arrival: false
+  - id: 531
+    slug: jarra-extra-26x17-cm
+    name: Jarra extra  26x17 CM.
+    description: Las jarras son vasijas de barro,  con el cuello y boca anchos y una
+      o más asas de origen árabe. Las jarras se emplean para conservar agua, y para
+      poner en ellas toda clase  de líquidos como vino, aceite, etc.
+    new_arrival: false
+  - id: 526
+    slug: fuente-redonda-25-cm
+    name: Fuente redonda 25 cm.
+    description: ''
+    new_arrival: false
+  - id: 525
+    slug: mortero-13x11-cmt
+    name: Mortero 13x11 Cmt.
+    description: " EL mortero de cocina es de los utensilios mas antiguos que se siguen
+      usando en las cocinas actuales"
+    new_arrival: false
+  - id: 524
+    slug: estropajero-de-bola-14x11-cmt
+    name: Estropajero de bola  14x11 Cmt.
+    description: Bonito estropajero para cocina realizado artesanalmente en ceramica
+      vidriada y decorado
+    new_arrival: false
+  - id: 521
+    slug: botella-n-2-con-asa-15x8-cmt
+    name: Botella nº 2 con asa   15x8 Cmt
+    description: ''
+    new_arrival: false
+  - id: 520
+    slug: cuenco-cuatro-picos-grande-25x10-cmt
+    name: Cuenco cuatro picos grande  25x10 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 516
+    slug: bol-23x8cmt
+    name: Bol  23x8cmt.
+    description: ''
+    new_arrival: false
+  - id: 514
+    slug: bolsa-15x13-9-cmt
+    name: Bolsa  15x13,9 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 513
+    slug: bol-extra-32x12-cmt
+    name: Bol extra 32x12 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 512
+    slug: tarro-de-cubiertos-17x12-cmt
+    name: Tarro de cubiertos 17x12 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 511
+    slug: jarra-tetrabrik-18x16cmt
+    name: Jarra tetrabrik 18x16Cmt.
+    description: ''
+    new_arrival: false
+  - id: 508
+    slug: salero-de-pared-tapa-madera-12x12-cmt
+    name: SALERO DE PARED TAPA MADERA    12X12 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 507
+    slug: ensaladera-30cmt
+    name: ENSALADERA 30Cmt.
+    description: ''
+    new_arrival: false
+  - id: 504
+    slug: salero-de-pared-tapa-madera-12x12-cmt
+    name: SALERO DE PARED  TAPA MADERA. 12X12 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 500
+    slug: carton-12-huevos-24-5-x-18-5-cmt
+    name: CARTON 12 HUEVOS. 24.5 x 18.5 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 498
+    slug: fuente-octogonal-25-cmt
+    name: FUENTE OCTOGONAL  25 Cmt..
+    description: ''
+    new_arrival: false
+  - id: 497
+    slug: plato-7-huecos-32-x-32-cmt
+    name: Plato 7 huecos   32 x 32 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 495
+    slug: cuenco-cuadrado-24x11cmt
+    name: CUENCO CUADRADO  24X11Cmt..
+    description: ''
+    new_arrival: false
+  - id: 494
+    slug: bol-27x10cmt
+    name: BOL  27X10Cmt..
+    description: ''
+    new_arrival: false
+  - id: 493
+    slug: jarra-copa-asa-9x11cmt
+    name: JARRA COPA ASA 9X11Cmt..
+    description: ''
+    new_arrival: false
+  - id: 492
+    slug: ensaladera-cuadrada-27cmt
+    name: ENSALADERA CUADRADA 27Cmt..
+    description: ''
+    new_arrival: false
+- id: 15
+  slug: combinado-de-productos-y-decorados-de-jardineria
+  name: Combinado de productos y decorados de JARDINERIA
+  description: En este apartado podrá encontrar una combinación de los modelos de
+    JARDINERÍA con diferentes decorados.
+  products:
+  - id: 539
+    slug: grupo-de-pared-de-3-piezas-27-cm
+    name: Grupo de pared de 3 piezas 27 Cm.
+    description: ''
+    new_arrival: false
+  - id: 536
+    slug: maceta-de-colgar-13x17-cm
+    name: Maceta  de colgar   13x17 Cm.
+    description: ''
+    new_arrival: false
+  - id: 535
+    slug: coco-n-4-26x24-cm
+    name: Coco nº 4  26x24 Cm.
+    description: ''
+    new_arrival: false
+  - id: 530
+    slug: maceta-de-colgar-21x19-cm
+    name: Maceta de colgar  21x19 cm.
+    description: "Si vives en la ciudad y deseas a toda costa tener un jardín, no
+      tienes por qué renunciar a tu sueño. Puedes hacer de la terraza, el balcón o
+      el patio un improvisado jardín, siempre y cuando escojas las especies más adecuadas
+      y sepas manejarte con las macetas y las jardineras. \r\n"
+    new_arrival: false
+  - id: 529
+    slug: maceta-redonda-suelo-25x27cm
+    name: Maceta redonda suelo 25x27Cm.
+    description: "Si tienes un jardín y quieres decorarlo de una forma original con
+      macetas de distintos tamaños, colores y formas. Antes de nada debes saber que
+      decorar un jardín no tiene porque ser caro.\r\n"
+    new_arrival: false
+  - id: 528
+    slug: mallorquina-baja-14x23-cm
+    name: Mallorquina baja 14x23 Cm.
+    description: ''
+    new_arrival: false
+  - id: 527
+    slug: maceta-margarita-29x18-cm
+    name: Maceta margarita  29x18 Cm.
+    description: ''
+    new_arrival: false
+  - id: 522
+    slug: cesta-n-2-35-cmt
+    name: Cesta nº 2 --  35 Cmt.
+    description: ''
+    new_arrival: false
+  - id: 518
+    slug: coco-n-5-23x22cmt
+    name: coco  nº5   23x22Cmt.
+    description: ''
+    new_arrival: false
+  - id: 506
+    slug: tinaja-de-pared-25cmt
+    name: TINAJA DE PARED  25Cmt.
+    description: ''
+    new_arrival: false
+  - id: 502
+    slug: maceta-redonda-suelo-25x27-cm
+    name: Maceta redonda suelo  25x27 Cm..
+    description: ''
+    new_arrival: false
+- id: 5
+  slug: cazuelas
+  name: Cazuelas
+  description: 'Las cazuelas de barro son complementos de cocina, que llevan mucho
+    tiempo entre nosotros, incluso podríamos decir que se trata del recipiente mas
+    antiguo que existe para cocinar y en el cual quedan mas sabrosas las comidas. '
+  products:
+  - id: 173
+    slug: peroles
+    name: PEROLES
+    description: Cazuelas y menaje de cocina para fuego, vitrocerámica y horno.
+    new_arrival: false
+  - id: 121
+    slug: cazuelas-redondas-peroles-ollas-y-cuajaderas
+    name: CAZUELAS REDONDAS, PEROLES, OLLAS Y CUAJADERAS
+    description: "Cazuelas Redondas para el fuego\r\n\r\nCazuelas y menaje de cocina
+      para vitroceramica, fuego y horno"
+    new_arrival: false
+  - id: 120
+    slug: platos-de-chuleton
+    name: Platos de Chuleton
+    description: "Platos de Chuleton\r\n\r\nCazuelas y menaje de cocina para vitrocerámica,
+      horno y fuego"
+    new_arrival: false
+  - id: 119
+    slug: cuajaderas
+    name: CUAJADERAS
+    description: "CUAJADERAS\r\n\r\nMenaje de cocina para vitroceramica, fuego y horno"
+    new_arrival: false
+  - id: 118
+    slug: cazuelas-ovaladas
+    name: CAZUELAS OVALADAS
+    description: "CAZUELAS OVALADAS\r\n\r\nCazuelas y menaje de cocina para horno,
+      fuego y vitroceramica."
+    new_arrival: false
+  - id: 117
+    slug: cazuelas-rectangulares
+    name: CAZUELAS RECTANGULARES
+    description: "CAZUELAS RECTANGULARES\r\n\r\nCazuelas y menaje de cocina para horno
+      , vitroceramica y fuego."
+    new_arrival: false
+  - id: 116
+    slug: ollas
+    name: OLLAS
+    description: "OLLAS\r\n\r\nMenaje de cocina y cazuelas de barro para el horno,
+      fuego y vitroceramica."
+    new_arrival: false
+  - id: 113
+    slug: cazuelas-redondas-gres
+    name: CAZUELAS REDONDAS GRES
+    description: "CAZUELAS REDONDAS GRES\r\n\r\nCazuelas de barro y menaje de cocina
+      para fuego, horno y vitroceramica.\r\n"
+    new_arrival: false
+  - id: 112
+    slug: cazuelas-ovaladas-gres
+    name: CAZUELAS OVALADAS GRES
+    description: "CAZUELAS OVALADAS GRES\r\n\r\ncazuelas de barro para horno, fuego
+      y vitroceramica."
+    new_arrival: false
+- id: 11
+  slug: productos-especiales-personalizados
+  name: Productos especiales personalizados
+  description: También hacemos decoraciones a medida para adaptarnos lo mejor posible
+    a sus necesidades.
+  products:
+  - id: 438
+    slug: azulejos-ceramicos-alta-decoracion
+    name: Azulejos cerámicos alta decoración
+    description: ''
+    new_arrival: false
+  - id: 408
+    slug: azulejos-de-ceramica-con-cenefas-pintadas-a-mano
+    name: Azulejos de cerámica con cenefas pintadas a mano
+    description: Azulejos de cerámica pintados a mano
+    new_arrival: false
+  - id: 319
+    slug: plato-de-colgar-de-30cmt
+    name: Plato de colgar de 30cmt.
+    description: ''
+    new_arrival: false
+- id: 13
+  slug: otros-modelos
+  name: Otros modelos
+  description: "En esta categoría encontrará una selección de otros modelos.\r\n\r\nTodos
+    nuestros productos están pintados a mano"
+  products:
+  - id: 465
+    slug: fregaderos
+    name: Fregaderos.
+    description: " – Los fregaderos de cerámica son una opción clásica y elegante
+      para la cocina"
+    new_arrival: false
+  - id: 464
+    slug: enfriador-de-botellas
+    name: Enfriador de botellas
+    description: "En cinco o diez minutos la botella está lista para servir y la mantendrá
+      fresca. \r\n\r\nSe adapta a la mayoría de las botellas de 0,7-1,0 Lts. Antes
+      de utilizarlo, meter en el congelador por espacio de 5 horas."
+    new_arrival: false
+  - id: 463
+    slug: paragueros
+    name: Paragüeros
+    description: Originales, bonitos y muy decorativos. Así son estos modelos que
+      te presentamos, para que elijas el estilo que más se adapte a tu recibidor.
+    new_arrival: false
+  - id: 461
+    slug: cantaros
+    name: Cántaros
+    description: En la alfarería española, se denomina cántaro a la vasija de barro,
+      de boca ancha de llenado y una o dos asas, empleada para transportar y contener
+      agua.
+    new_arrival: false
+  - id: 450
+    slug: porta-numeros-y-letras
+    name: Porta numeros y letras
+    description: ''
+    new_arrival: false
+- id: 6
+  slug: otros-decorados
+  name: Otros decorados
+  description: "En esta categoría encontrará una selección de otros decorados.\r\n\r\nTodos
+    nuestros productos están pintados a mano."
+  products:
+  - id: 592
+    slug: ensaladeras-decoracion-ancla
+    name: ensaladeras decoración ancla
+    description: ''
+    new_arrival: false
+  - id: 591
+    slug: ensaladeras-decoracion-timon
+    name: ensaladeras decoración  timon
+    description: ''
+    new_arrival: false
+  - id: 459
+    slug: ensaladeras-y-cuencos-cuadrados-de-ceramica
+    name: Ensaladeras y cuencos cuadrados de ceramica.
+    description: ''
+    new_arrival: false
+  - id: 457
+    slug: vaso-con-asa-de-ceramica
+    name: Vaso con asa de ceramica,
+    description: ''
+    new_arrival: false
+  - id: 400
+    slug: taza-desayuno-de-ceramica-grande
+    name: Taza desayuno de ceramica  grande
+    description: ''
+    new_arrival: false
+  - id: 346
+    slug: decoracion-228-jardineria
+    name: Decoración 228 jardineria
+    description: ''
+    new_arrival: false
+  - id: 345
+    slug: bicolor-naranja-butano-jardineria
+    name: Bicolor naranja butano jardineria
+    description: ''
+    new_arrival: false
+  - id: 344
+    slug: decoracion-miel-ci-jardineria
+    name: Decoracion miel CI jardineria
+    description: ''
+    new_arrival: false
+  - id: 343
+    slug: decoracion-207-jardineria
+    name: Decoración 207 jardineria
+    description: ''
+    new_arrival: false
+  - id: 342
+    slug: campana-marbella-grupo-suelo-mallorquina-jardineria
+    name: CAMPANA-MARBELLA-GRUPO SUELO-MALLORQUINA jardineria
+    description: ''
+    new_arrival: false
+  - id: 341
+    slug: decoracion-carmen-jardineria
+    name: Decoración carmen jardineria
+    description: ''
+    new_arrival: false
+  - id: 340
+    slug: decoracion-222-jardineria
+    name: Decoración  222 jardineria
+    description: ''
+    new_arrival: false
+  - id: 339
+    slug: decoracion-bicolor-celeste-azul-jardineria
+    name: DECORACIÓN BICOLOR  CELESTE AZUL jardineria
+    description: ''
+    new_arrival: false
