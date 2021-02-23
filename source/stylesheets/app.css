@@ -36,6 +36,9 @@ h1, h2, h3, h4, h5, h6 {
   left: 1.5rem;
   transition: all 0.4s ease-in-out;
 }
+.overlay-nav-menu-toggle.close {
+  position: fixed;
+}
 
 .overlay-nav-menu-toggle:hover {
   transition: all 0.4s ease-in-out;
@@ -43,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .overlay-nav-menu {
-  position: absolute;
+  position: fixed;
   z-index: 1000;
   top: 0;
   left: 0;
