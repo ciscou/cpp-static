@@ -34,14 +34,14 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
   top: 0.5rem;
   left: 1.5rem;
-  transition: all 0.4s ease-in-out;
+  transition: color 250ms ease-in-out;
 }
+
 .overlay-nav-menu-toggle.close {
   position: fixed;
 }
 
 .overlay-nav-menu-toggle:hover {
-  transition: all 0.4s ease-in-out;
   color: #fefefe;
 }
 
@@ -54,23 +54,15 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   width: 100%;
   margin: 0;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  opacity: 0;
+  flex-direction: column;
+  justify-content: center;
   list-style: none;
   background: #d00000;
   background-size: cover;
   text-align: center;
-  -webkit-transform: translateX(-100%) rotateX(40deg);
-          transform: translateX(-100%) rotateX(40deg);
-  transition: all 400ms cubic-bezier(1, -0.4, 0.44, 0.985);
+  transform: translateX(-100%);
+  transition: transform 250ms ease;
 }
 
 .overlay-nav-menu li {
@@ -94,10 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .overlay-nav-menu.is-open {
-  top: 0;
-  opacity: 1;
-  -webkit-transform: perspective(200px) translateX(0) rotateX(0);
-          transform: perspective(200px) translateX(0) rotateX(0);
+  transform: translateX(0);
 }
 
 .overlay-nav-menu ~ .overlay-nav-menu-toggle.close {
@@ -106,12 +95,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .overlay-nav-menu.is-open ~ .overlay-nav-menu-toggle.close {
   display: inline-block;
-  transition: all 0.4s ease-in-out;
-  /*
-  -webkit-transform: rotate(135deg);
-      -ms-transform: rotate(135deg);
-          transform: rotate(135deg);
-  */
   color: white;
 }
 
@@ -155,15 +138,9 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 400px) {
   .subnav-hero-section {
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-align-items: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-justify-content: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    align-items: center;
+    justify-content: center;
     padding-top: 0px;
   }
 
@@ -211,15 +188,15 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   font-weight: bold;
   letter-spacing: 1px;
-  transition: all 0.35s ease-in-out;
+  transition: background-color 250ms ease-in-out;
 }
 
 .subnav-hero-subnav li a.is-active {
-  background: rgba(254, 254, 254, 0.15);
+  background-color: rgba(254, 254, 254, 0.15);
 }
 
 .subnav-hero-subnav li a:hover {
-  background: rgba(254, 254, 254, 0.15);
+  background-color: rgba(254, 254, 254, 0.15);
 }
 
 #blueimp-gallery .description {
