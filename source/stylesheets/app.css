@@ -240,6 +240,7 @@ a.see-more-products:hover {
 
 .photos .photo-wrapper {
   position: relative;
+  background: black;
 }
 
 .photos .photo-wrapper a.thumbnail {
@@ -268,6 +269,11 @@ a.see-more-products:hover {
 .photos .photo-wrapper a.thumbnail:focus {
   transform: scale(1.05);
   box-shadow: 0 0 6px 1px #a00000;
+}
+
+.photos .photo-wrapper a.thumbnail:hover img,
+.photos .photo-wrapper a.thumbnail:focus img {
+  opacity: 0.5;
 }
 
 .photos .photo-wrapper a.thumbnail:hover .caption {
