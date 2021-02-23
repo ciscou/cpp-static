@@ -13,7 +13,7 @@ do
 
         for image in *.jpg
         do
-          convert -define jpeg:size=200x200 "$image"  -thumbnail 100x100^ -gravity center -extent 100x100 "thumb/$image"
+          convert -define jpeg:size=400x400 "$image" -thumbnail 200x200^ -gravity center -extent 200x200 "thumb/$image"
         done
       )
     done

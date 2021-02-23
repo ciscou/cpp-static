@@ -109,8 +109,8 @@
 
 .subnav-hero-section {
   text-align: center;
-  background: #d00000;
-  background-size: cover;
+  background: rgb(208,0,0);
+  background: linear-gradient(0deg, rgba(208,0,0,1) 0%, rgba(160,0,0,1) 100%);
   position: relative;
   overflow: visible;
   height: 200px;
@@ -238,11 +238,36 @@ a.see-more-products:hover {
   margin-bottom: 1rem;
 }
 
+.photos .photo-wrapper {
+  position: relative;
+}
+
 .photos .photo-wrapper a.thumbnail {
   display: block;
   margin: 0;
+  transition: transform 250ms ease;
 }
 
 .photos .photo-wrapper a img {
   width: 100%;
+}
+
+.photos .photo-wrapper a.thumbnail .caption {
+  display: none;
+  position: absolute;
+  left: .5rem;
+  bottom: .5rem;
+  right: .5rem;
+  color: #fff;
+  text-shadow: 0 0 3px #d00000;
+  line-height: 1rem;
+  font-size: 0.9rem;
+}
+
+.photos .photo-wrapper a.thumbnail:hover {
+  transform: scale(1.1)
+}
+
+.photos .photo-wrapper a.thumbnail:hover .caption {
+  display: block;
 }
