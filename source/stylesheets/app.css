@@ -145,12 +145,6 @@ img.full-width {
   padding-top: 50px;
 }
 
-@media (min-width: 800px) {
-  .subnav-hero-section {
-    height: 300px;
-  }
-}
-
 .subnav-hero-section img.logo {
   width: 80px;
 }
@@ -191,6 +185,12 @@ img.full-width {
   }
 }
 
+@media (min-width: 800px) {
+  .subnav-hero-section {
+    height: 320px;
+  }
+}
+
 .subnav-hero-section .subnav-hero-headline {
   color: #fafafa;
 }
@@ -217,7 +217,7 @@ img.full-width {
 }
 
 .subnav-hero-subnav li a {
-  padding: 0.9rem 1rem;
+  padding: 0.9rem 1rem 0.6rem 1rem;
   color: #fafafa;
   display: block;
   font-weight: bold;
