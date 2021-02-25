@@ -13,6 +13,7 @@
       index: link,
       event: e,
       emulateTouchEvents: false,
+      continuous: false,
       onopen: function() {
         // console.log('open');
       },
