@@ -20,17 +20,6 @@
       |
       <a target="_blank" class="facebook" href="https://www.facebook.com/ceramica.padillapadilla.7"><i class="fi-social-facebook"></i></a>
     </div>
-    <nav class="overlay-nav" role="navigation">
-      <ul id="overlay-nav-menu" class="overlay-nav-menu">
-        <li><a href="/" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Inicio</a></li>
-        <li><a href="/catalogo" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Cat&aacute;logo</a></li>
-        <li><a href="/quienes-somos" class="<%= "is-active" if current_page.data.active_tab == "who" %>">¿Qui&eacute;nes somos?</a></li>
-        <li><a href="/donde-estamos" class="<%= "is-active" if current_page.data.active_tab == "where" %>">¿D&oacute;nde estamos?</a></li>
-        <li><a href="/contacto" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contacto</a></li>
-      </ul>
-      <a data-toggle-menu class="overlay-nav-menu-toggle open" href="#overlay-nav-menu"><i class="fi-list"></i></a>
-      <a data-toggle-menu class="overlay-nav-menu-toggle close" href="#overlay-nav-menu"><i class="fi-x"></i></a>
-    </nav>
     <header class="subnav-hero-section">
       <% link_to "/" do %>
         <%= image_tag "white-logo.png", class: "logo" %>
@@ -45,6 +34,8 @@
         <li><a href="/donde-estamos" class="<%= "is-active" if current_page.data.active_tab == "where" %>">¿D&oacute;nde estamos?</a></li>
         <li><a href="/contacto" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contacto</a></li>
       </ul>
+      <a href="#" class="overlay-nav-menu-open"><i class="fi-list"></i></a>
+      <a href="#" class="overlay-nav-menu-close"><i class="fi-x"></i></a>
     </header>
 
     <div class="grid-container">

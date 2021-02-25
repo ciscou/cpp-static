@@ -1,7 +1,12 @@
 (function($) {
-  $('[data-toggle-menu]').on("click", function(e){
+  $('.overlay-nav-menu-open').on("click", function(e){
     e.preventDefault();
-    $("#overlay-nav-menu").toggleClass("is-open");
+    $(".subnav-hero-subnav").addClass("is-open");
+  });
+
+  $('.overlay-nav-menu-close').on("click", function(e){
+    e.preventDefault();
+    $(".subnav-hero-subnav").removeClass("is-open");
   });
 
   $photos = $(".photos a.photo")
