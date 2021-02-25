@@ -141,11 +141,11 @@ img.full-width {
 }
 
 .subnav-hero-subnav li a.is-active {
-  background-color: rgba(254, 254, 254, 0.15);
+  background-color: rgba(254, 254, 254, 0.25);
 }
 
 .subnav-hero-subnav li a:hover {
-  background-color: rgba(254, 254, 254, 0.15);
+  background-color: rgba(254, 254, 254, 0.25);
 }
 
 .subnav-hero-subnav.is-open {
