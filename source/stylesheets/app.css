@@ -98,15 +98,14 @@ img.full-width {
 }
 
 .overlay-nav-menu li {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .overlay-nav-menu a {
   display: block;
   color: #fafafa;
   font-weight: bold;
-  height: 6.25rem;
-  line-height: 6.25rem;
+  padding: 1.5em 0;
   border-bottom: 1px solid rgba(254, 254, 254, 0.5);
   text-decoration: none;
 }
@@ -135,14 +134,13 @@ img.full-width {
 }
 
 .subnav-hero-section {
+  padding: 3em;
   text-align: center;
   background: #d00000;
   background: linear-gradient(#a00000, #d00000);
   position: relative;
   overflow: visible;
-  height: 200px;
   margin-bottom: 24px;
-  padding-top: 50px;
 }
 
 .subnav-hero-section img.logo {
@@ -157,10 +155,6 @@ img.full-width {
 }
 
 @media (min-width: 400px) {
-  .subnav-hero-section {
-    height: 250px;
-  }
-
   .subnav-hero-section h1 {
     font-size: 2rem;
     margin-left: 15px;
@@ -173,10 +167,10 @@ img.full-width {
 
 @media (min-width: 640px) {
   .subnav-hero-section {
+    padding: 5em 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 0px;
   }
 
   .subnav-hero-section h1 {
@@ -187,7 +181,7 @@ img.full-width {
 
 @media (min-width: 800px) {
   .subnav-hero-section {
-    height: 320px;
+    padding: 7em 0;
   }
 }
 
@@ -302,4 +296,25 @@ a.see-more-products:hover {
 
 .photos .photo-wrapper a.thumbnail:hover .caption {
   display: block;
+}
+
+footer.cpp {
+  background-color: #ddd;
+  padding: 48px 12px;
+  margin-top: 96px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer.cpp img {
+  width: 50px;
+  margin-bottom: 0.75em;
+}
+
+footer.cpp span {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #d00000;
 }
