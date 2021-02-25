@@ -1,0 +1,34 @@
+@import "base";
+@import "header";
+@import "photos";
+@import "footer";
+
+img.full-width {
+  width: 100%;
+}
+
+.grid-container {
+  max-width: 800px;
+}
+
+#blueimp-gallery .description {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  padding: 12px;
+  color: #bbb;
+  font-size: 12px;
+}
+
+#blueimp-gallery.blueimp-gallery-controls .description {
+  display: block;
+}
+
+a.see-more-products {
+  background-color: #d00000;
+}
+
+a.see-more-products:focus,
+a.see-more-products:hover {
+  background-color: #a00000;
+}

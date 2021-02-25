@@ -1,0 +1,27 @@
+body {
+  background-color: #fafafa;
+  font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+@media (min-width: 400px) {
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+a {
+  color: #d00000;
+}
+
+a:hover, a:focus {
+  color: #a00000;
+}

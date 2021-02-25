@@ -1,0 +1,48 @@
+.photos {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  margin-bottom: 1rem;
+}
+
+.photos .photo-wrapper {
+  position: relative;
+  background: black;
+}
+
+.photos .photo-wrapper a.thumbnail {
+  display: block;
+  margin: 0;
+  transition: transform 250ms ease;
+}
+
+.photos .photo-wrapper a img {
+  width: 100%;
+}
+
+.photos .photo-wrapper a.thumbnail .caption {
+  display: none;
+  position: absolute;
+  left: .5rem;
+  bottom: .5rem;
+  right: .5rem;
+  color: #fafafa;
+  text-shadow: 0 0 3px #a00000;
+  line-height: 1rem;
+  font-size: 0.9rem;
+}
+
+.photos .photo-wrapper a.thumbnail:hover,
+.photos .photo-wrapper a.thumbnail:focus {
+  transform: scale(1.05);
+  box-shadow: 0 0 6px 1px #a00000;
+}
+
+.photos .photo-wrapper a.thumbnail:hover img,
+.photos .photo-wrapper a.thumbnail:focus img {
+  opacity: 0.5;
+}
+
+.photos .photo-wrapper a.thumbnail:hover .caption {
+  display: block;
+}
