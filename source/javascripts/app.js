@@ -12,6 +12,7 @@
     var options = {
       index: link,
       event: e,
+      emulateTouchEvents: false,
       onopen: function() {
         // console.log('open');
       },
