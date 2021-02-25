@@ -8,11 +8,11 @@ active_tab: catalog
 
   <p>
     <% link_to "/catalogo/#{category.slug}/productos" do %>
-      <%= image_tag "category/#{category.id}/#{category.slug}.jpg" %>
+      <%= image_tag "category/#{category.id}/#{category.slug}.jpg", class: "full-width" %>
     <% end %>
   </p>
 
   <%= simple_format category.description %>
 
-  <%= link_to "Ver #{category.name}", "/catalogo/#{category.slug}/productos", class: "button expanded see-more-products", style: "margin-bottom: 3rem" %>
+  <%= link_to "Ver #{category.name}", "/catalogo/#{category.slug}/productos", class: "button large expanded see-more-products", style: "margin-bottom: 3rem" %>
 <% end %>

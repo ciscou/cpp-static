@@ -32,7 +32,7 @@ page '/*.txt', layout: false
 proxy "/catalogo/index.html", "/catalog.html", ignore: true
 proxy "/quienes-somos/index.html", "/who.html", ignore: true
 proxy "/donde-estamos/index.html", "/where.html", ignore: true
-proxy "/contacte-con-nosotros/index.html", "/contact.html", ignore: true
+proxy "/contacto/index.html", "/contact.html", ignore: true
 
 data.categories.each do |category|
   proxy "/catalogo/#{category.name.parameterize}/productos/index.html", "/category_products.html", locals: { category: category }, ignore: true
