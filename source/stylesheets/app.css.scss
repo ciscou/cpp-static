@@ -1,3 +1,4 @@
+@import "remedy";
 @import "base";
 @import "header";
 @import "photos";
@@ -7,8 +8,10 @@ img.full-width {
   width: 100%;
 }
 
-.grid-container {
+.container {
   max-width: 800px;
+  margin: 0 auto;
+  padding: 0 0.5em;
 }
 
 #blueimp-gallery .description {
@@ -26,6 +29,13 @@ img.full-width {
 
 a.see-more-products {
   background-color: #d00000;
+  color: #fafafa;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+  font-size: 1.25rem;
 }
 
 a.see-more-products:focus,

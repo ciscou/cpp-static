@@ -22,6 +22,7 @@
       event: e,
       emulateTouchEvents: false,
       continuous: false,
+      closeOnHashChange: false,
       onopen: function() {
         // console.log('open');
       },

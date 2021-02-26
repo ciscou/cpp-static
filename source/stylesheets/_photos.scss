@@ -12,7 +12,8 @@
 
 .photos .photo-wrapper a.thumbnail {
   display: block;
-  margin: 0;
+  border: 4px solid #fafafa;
+  box-shadow: 0 0 1px 1px #ddd;
   transition: transform 250ms ease;
 }
 
