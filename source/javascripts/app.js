@@ -13,7 +13,10 @@
 
   $(".photos a.photo").click(function(e) {
     var target = e.target || e.srcElement;
-    var link = target.src ? target.parentNode : target;
+    var link = target;
+    while(link.nodeName !== "A") {
+      link = link.parentNode;
+    }
     var options = {
       index: link,
       event: e,
