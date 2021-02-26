@@ -24,6 +24,7 @@ a.facebook:hover, a.facebook:focus {
   align-items: center;
   justify-content: center;
   padding: 3em;
+  padding-bottom: 1em;
   background: #d00000;
   background: linear-gradient(#a00000, #d00000);
   position: relative;
@@ -58,6 +59,7 @@ a.facebook:hover, a.facebook:focus {
 @media (min-width: 640px) {
   .subnav-hero-section {
     padding: 5em 0;
+    padding-bottom: 3em;
     flex-direction: row;
   }
 
@@ -69,7 +71,8 @@ a.facebook:hover, a.facebook:focus {
 
 @media (min-width: 800px) {
   .subnav-hero-section {
-    padding: 7em 0;
+    padding: 6em 0;
+    padding-bottom: 5em;
   }
 }
 
