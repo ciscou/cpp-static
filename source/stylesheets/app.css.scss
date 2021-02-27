@@ -18,11 +18,9 @@ img.full-width {
 #blueimp-gallery .caption {
   position: absolute;
   bottom: 0;
-  left: 0;
   right: 0;
-  padding: 12px;
-  color: #bbb;
-  font-size: 12px;
+  padding: 1em;
+  text-align: right;
 }
 
 #blueimp-gallery .caption a {
@@ -41,7 +39,6 @@ img.full-width {
 
 #blueimp-gallery.blueimp-gallery-controls .caption {
   display: block;
-  text-align: right;
 }
 
 a.button {
@@ -51,6 +48,10 @@ a.button {
   text-decoration: none;
   padding: 1em;
   text-align: center;
+
+  &.small {
+    font-size: 0.75rem;
+  }
 
   &.large {
     font-size: 1.25rem;
