@@ -2,6 +2,16 @@
 active_tab: catalog
 ---
 
+<% content_for :og do %>
+  <meta property="og:title" content="<%= product.name %>">
+  <meta property="og:description" content="<%= product.description %>">
+  <meta property="og:image" content="https://ceramicapadilla.es<%= image_path("product/#{product.id}/#{product.slug}.jpg") %>">
+  <meta property="og:url" content="https://ceramicapadilla.es/catalogo/<%= category.slug %>/productos/<%= product.id %>-<%= product.slug %>">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:site_name" content="Cerámica Padilla Padilla">
+  <meta name="twitter:image:alt" content="<%= product.name %>">
+<% end %>
+
 <h2><%= product.name %></h2>
 
 <p>
