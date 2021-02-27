@@ -13,11 +13,15 @@ active_tab: catalog
 <% end %>
 
 <h2><%= product.name %></h2>
-
-<p>
-  <%= image_tag "product/#{product.id}/#{product.slug}.jpg", class: "full-width" %>
-</p>
-
-<%= simple_format product.description %>
+<div class="photo-and-description">
+  <div class="photo">
+    <p>
+      <%= image_tag "product/#{product.id}/#{product.slug}.jpg", class: "full-width" %>
+    </p>
+  </div>
+  <div class="description">
+    <%= simple_format product.description %>
+  </div>
+</div>
 
 <%= link_to "Volver a #{category.name}", "/catalogo/#{category.slug}/productos", class: "button large expanded" %>

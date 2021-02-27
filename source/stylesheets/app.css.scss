@@ -66,3 +66,18 @@ a.button:hover {
 .category-block {
   margin-bottom: 5em;
 }
+
+@media(min-width: 640px) {
+  .photo-and-description {
+    display: flex;
+
+    .photo {
+      flex: 1;
+    }
+
+    .description {
+      flex: 1;
+      margin-left: 1em;
+    }
+  }
+}

@@ -7,13 +7,18 @@ active_tab: catalog
   <div class="category-block">
     <h2><%= category.name %></h2>
 
-    <p>
-      <% link_to "/catalogo/#{category.slug}/productos" do %>
-        <%= image_tag "category/#{category.id}/#{category.slug}.jpg", class: "full-width" %>
-      <% end %>
-    </p>
-
-    <%= simple_format category.description %>
+    <div class="photo-and-description">
+      <div class="photo">
+        <p>
+          <% link_to "/catalogo/#{category.slug}/productos" do %>
+            <%= image_tag "category/#{category.id}/#{category.slug}.jpg", class: "full-width" %>
+          <% end %>
+        </p>
+      </div>
+      <div class="description">
+        <%= simple_format category.description %>
+      </div>
+    </div>
 
     <%= link_to "Ver #{category.name}", "/catalogo/#{category.slug}/productos", class: "button large expanded" %>
   </div>
