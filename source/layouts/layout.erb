@@ -7,7 +7,7 @@
     <%= favicon_tag "favicon.png" %>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-    <title><%= current_page.data.title || "Cerámica Padilla Padilla" %></title>
+    <title><%= current_page.metadata[:locals][:title] || current_page.data.title || "Cerámica Padilla Padilla" %></title>
     <%= stylesheet_link_tag "blueimp-gallery" %>
     <%= stylesheet_link_tag "app" %>
     <%= javascript_include_tag "https://kit.fontawesome.com/8c428ac272.js", crossorigin: "anonymous" %>
@@ -52,8 +52,9 @@
       <a class="prev"></a>
       <a class="next"></a>
       <a class="close"></a>
-      <a class="play-pause"></a>
-      <div class="description"></div>
+      <div class="caption">
+        <%= link_to "Ver más", "#", class: "button" %>
+      </div>
     </div>
 
     <%= javascript_include_tag "jquery" %>

@@ -15,31 +15,57 @@ img.full-width {
   padding: 0 0.5em;
 }
 
-#blueimp-gallery .description {
-  display: none;
+#blueimp-gallery .caption {
   position: absolute;
   bottom: 0;
+  left: 0;
+  right: 0;
   padding: 12px;
   color: #bbb;
   font-size: 12px;
 }
 
-#blueimp-gallery.blueimp-gallery-controls .description {
-  display: block;
+#blueimp-gallery .caption a {
+  opacity: 0.6;
+  transition: opacity 150ms ease-out;
 }
 
-a.see-more-products {
+#blueimp-gallery .caption a:hover,
+#blueimp-gallery .caption a:focus {
+  opacity: 1;
+}
+
+#blueimp-gallery.sliding .caption a {
+  opacity: 0;
+}
+
+#blueimp-gallery.blueimp-gallery-controls .caption {
+  display: block;
+  text-align: right;
+}
+
+a.button {
+  display: inline-block;
   background-color: $color-brand;
   color: $color-white;
   text-decoration: none;
-  display: block;
-  width: 100%;
   padding: 1em;
   text-align: center;
-  font-size: 1.25rem;
+
+  &.large {
+    font-size: 1.25rem;
+  }
+
+  &.expanded {
+    display: block;
+  }
 }
 
-a.see-more-products:focus,
-a.see-more-products:hover {
+a.button:focus,
+a.button:hover {
   background-color: $color-brand-dark;
+}
+
+.category-block {
+  margin-bottom: 5em;
 }

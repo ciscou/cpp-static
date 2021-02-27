@@ -1,0 +1,13 @@
+---
+active_tab: catalog
+---
+
+<h2><%= product.name %></h2>
+
+<p>
+  <%= image_tag "product/#{product.id}/#{product.slug}.jpg", class: "full-width" %>
+</p>
+
+<%= simple_format product.description %>
+
+<%= link_to "Volver a #{category.name}", "/catalogo/#{category.slug}/productos", class: "button large expanded" %>

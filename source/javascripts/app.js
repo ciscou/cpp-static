@@ -32,14 +32,16 @@
       },
       onslide: function(index, slide) {
         // console.log('slide', index, slide);
-        var description = $(this.list[index]).data("description");
-        $("#blueimp-gallery .description").html(description);
+        $("#blueimp-gallery").addClass("sliding");
+        var productURL = $(this.list[index]).data("product-url");
+        $("#blueimp-gallery .caption a").attr("href", productURL);
       },
       onslideend: function(index, slide) {
         // console.log('slideend', index, slide);
+        $("#blueimp-gallery").removeClass("sliding");
       },
       onslidecomplete: function(index, slide) {
-        // console.log('slidecomplete', index, slide);
+        console.log('slidecomplete', index, slide);
       },
       onclose: function() {
         // console.log('close');

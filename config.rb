@@ -35,7 +35,10 @@ proxy "/donde-estamos/index.html", "/where.html", ignore: true
 proxy "/contacto/index.html", "/contact.html", ignore: true
 
 data.categories.each do |category|
-  proxy "/catalogo/#{category.name.parameterize}/productos/index.html", "/category_products.html", locals: { category: category }, ignore: true
+  proxy "/catalogo/#{category.slug}/productos/index.html", "/category_products.html", locals: { category: category, title: category.name }, ignore: true
+  category.products.each do |product|
+    proxy "/catalogo/#{category.slug}/productos/#{product.id}-#{product.slug}/index.html", "/product.html", locals: { category: category, product: product, title: product.name }, ignore: true
+  end
 end
 
 # Helpers
@@ -45,7 +48,7 @@ end
 helpers do
   def new_arrivals
     data.categories.flat_map do |category|
-      category.products
+      category.products.each { |p| p.category_id = category.id }
     end.select do |product|
       product.new_arrival
     end.sort_by do |product|
