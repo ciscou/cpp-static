@@ -130,11 +130,10 @@ a.overlay-nav-menu-close {
   font-size: 2rem;
   transition: opacity 200ms ease;
   opacity: 0.85;
-}
 
-a.fas.overlay-nav-menu-open,
-a.fas.overlay-nav-menu-close {
-  color: #fafafa;
+  .fas {
+    color: #fafafa;
+  }
 }
 
 a.overlay-nav-menu-open:hover,
