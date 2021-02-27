@@ -12,7 +12,7 @@
 
 .photos .photo-wrapper a.thumbnail {
   display: block;
-  border: 4px solid #fafafa;
+  border: 4px solid $color-white;
   box-shadow: 0 0 1px 1px #ddd;
   transition: transform 250ms ease;
 }
@@ -27,8 +27,8 @@
   left: .5rem;
   bottom: .5rem;
   right: .5rem;
-  color: #fafafa;
-  text-shadow: 0 0 3px #a00000;
+  color: $color-white;
+  text-shadow: 0 0 3px $color-brand-dark;
   line-height: 1rem;
   font-size: 0.9rem;
 }
@@ -36,7 +36,7 @@
 .photos .photo-wrapper a.thumbnail:hover,
 .photos .photo-wrapper a.thumbnail:focus {
   transform: scale(1.05);
-  box-shadow: 0 0 6px 1px #a00000;
+  box-shadow: 0 0 6px 1px $color-brand-dark;
 }
 
 .photos .photo-wrapper a.thumbnail:hover img,

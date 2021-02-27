@@ -1,4 +1,5 @@
 @import "remedy";
+@import "variables";
 @import "base";
 @import "header";
 @import "photos";
@@ -28,8 +29,8 @@ img.full-width {
 }
 
 a.see-more-products {
-  background-color: #d00000;
-  color: #fafafa;
+  background-color: $color-brand;
+  color: $color-white;
   text-decoration: none;
   display: block;
   width: 100%;
@@ -40,5 +41,5 @@ a.see-more-products {
 
 a.see-more-products:focus,
 a.see-more-products:hover {
-  background-color: #a00000;
+  background-color: $color-brand-dark;
 }
