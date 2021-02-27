@@ -21,10 +21,10 @@ h2 {
 
 a, .fa, .fab, .fas {
   color: #d00000;
+}
 
-  &:hover, &:focus {
-    color: #a00000;
-  }
+a:hover, a:focus {
+  color: #a00000;
 }
 
 dl dt {

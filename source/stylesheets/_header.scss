@@ -128,9 +128,13 @@ a.overlay-nav-menu-close {
   top: 0.25em;
   left: 0.5em;
   font-size: 2rem;
-  color: #fafafa;
   transition: opacity 200ms ease;
   opacity: 0.85;
+}
+
+a.fas.overlay-nav-menu-open,
+a.fas.overlay-nav-menu-close {
+  color: #fafafa;
 }
 
 a.overlay-nav-menu-open:hover,
