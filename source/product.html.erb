@@ -12,16 +12,17 @@ active_tab: catalog
   <meta name="twitter:image:alt" content="<%= product.name %>">
 <% end %>
 
-<h2><%= product.name %></h2>
-<div class="photo-and-description">
-  <div class="photo">
-    <p>
-      <%= image_tag "product/#{product.id}/#{product.slug}.jpg", class: "full-width" %>
-    </p>
-  </div>
-  <div class="description">
-    <%= simple_format product.description %>
-  </div>
-</div>
+<div class="product-wrapper">
+  <h2><%= product.name %></h2>
 
-<%= link_to "Volver a #{category.name}", "/catalogo/#{category.slug}/productos", class: "button expanded" %>
+  <div class="photo-and-description">
+    <div class="photo">
+      <%= image_tag "product/#{product.id}/#{product.slug}.jpg", class: "full-width" %>
+    </div>
+    <div class="description">
+      <%= simple_format product.description %>
+    </div>
+  </div>
+
+  <%= link_to "Volver a #{category.name}", "/catalogo/#{category.slug}/productos", class: "button expanded" %>
+</div>
