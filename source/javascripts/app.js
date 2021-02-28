@@ -9,9 +9,11 @@
     $(".subnav-hero-subnav").removeClass("is-open");
   });
 
-  $photos = $(".photos a.photo")
+  var $photos = $(".photos a.photo");
 
-  $(".photos a.photo").click(function(e) {
+  var blueimpGallery;
+
+  $photos.click(function(e) {
     var target = e.target || e.srcElement;
     var link = target;
     while(link.nodeName !== "A") {
@@ -39,14 +41,14 @@
         // console.log('slideend', index, slide);
       },
       onslidecomplete: function(index, slide) {
-        console.log('slidecomplete', index, slide);
+        // console.log('slidecomplete', index, slide);
       },
       onclose: function() {
         // console.log('close');
       },
       onclosed: function() {
         // console.log('closed');
-        window.blueimpGallery = undefined;
+        blueimpGallery = undefined;
 
         if(window.location.hash === "#blueimp-gallery") {
           window.history.back();
@@ -54,7 +56,14 @@
       }
     };
 
-    window.blueimpGallery = blueimp.Gallery($photos, options);
+    blueimpGallery = blueimp.Gallery($photos, options);
+  });
+
+  $("#blueimp-gallery .caption a").click(function() {
+    if(window.location.hash === "#blueimp-gallery") {
+      blueimpGallery = undefined;
+      window.history.back();
+    }
   });
 
   window.onhashchange = function() {
