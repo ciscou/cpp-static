@@ -33,12 +33,9 @@ img.full-width {
   opacity: 1;
 }
 
-#blueimp-gallery.blueimp-gallery-controls .caption {
-  display: block;
-}
-
 a.button {
   display: inline-block;
+  border-radius: 0.25em;
   background-color: $color-brand;
   color: $color-white;
   text-decoration: none;
@@ -67,16 +64,17 @@ a.button:hover {
 .category-wrapper,
 .product-wrapper {
   margin-bottom: 3em;
+}
 
-  h2 {
-    margin-bottom: 0.25em;
+.photo-and-description {
+  .photo {
+    margin-bottom: 1em;
   }
 }
 
 @media(min-width: 640px) {
   .photo-and-description {
     display: flex;
-    margin-bottom: 1em;
 
     .photo {
       flex: 1;
@@ -85,10 +83,6 @@ a.button:hover {
     .description {
       flex: 1;
       margin-left: 1em;
-
-      p {
-        margin-top: 0;
-      }
     }
   }
 }
