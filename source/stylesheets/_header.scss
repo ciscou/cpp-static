@@ -135,7 +135,7 @@ a.facebook:hover, a.facebook:focus {
   padding: 0;
   margin: 0;
   font-size: 2rem;
-  transition: opacity 200ms ease;
+  transition: opacity 250ms ease;
   opacity: 0.85;
 
   & .hamburger {
@@ -150,7 +150,7 @@ a.facebook:hover, a.facebook:focus {
     height: 3px;
     background: $color-white;
     border-radius: 1px;
-    transition: transform 200ms ease;
+    transition: transform 250ms ease;
   }
 
   & .hamburger::before,
