@@ -1,12 +1,7 @@
 (function($) {
-  $('.overlay-nav-menu-open').on("click", function(e){
+  $('.overlay-nav-menu-toggle').on("click", function(e){
     e.preventDefault();
-    $(".subnav-hero-subnav").addClass("is-open");
-  });
-
-  $('.overlay-nav-menu-close').on("click", function(e){
-    e.preventDefault();
-    $(".subnav-hero-subnav").removeClass("is-open");
+    $(".subnav-hero-subnav").toggleClass("is-open");
   });
 
   var $photos = $(".photos a.photo");
