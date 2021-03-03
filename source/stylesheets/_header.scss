@@ -175,6 +175,10 @@ a.facebook:hover, a.facebook:focus {
   outline: none;
 }
 
+.subnav-hero-subnav.is-open ~ .overlay-nav-menu-toggle {
+  position: fixed;
+}
+
 .subnav-hero-subnav.is-open ~ .overlay-nav-menu-toggle .hamburger {
   transform: rotate(45deg);
 }
