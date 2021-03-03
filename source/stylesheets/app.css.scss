@@ -5,6 +5,20 @@
 @import "photos";
 @import "footer";
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main.container {
+  margin-bottom: 3em;
+}
+
+footer {
+  margin-top: auto;
+}
+
 img.full-width {
   width: 100%;
 }
