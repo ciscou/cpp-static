@@ -17,31 +17,33 @@
   </head>
 
   <body>
-    <div class="header-for-dummies">
-      <i class="fas fa-phone-alt"></i> (+34) 953 678 087
-      |
-      <a target="_blank" class="facebook" href="https://www.facebook.com/ceramica.padillapadilla.7"><i class="fab fa-facebook-square"></i></a>
-    </div>
     <header class="subnav-hero-section">
-      <% link_to "/" do %>
-        <%= image_tag "white-logo.png", class: "logo" %>
-      <% end %>
-      <% link_to "/" do %>
-        <h1 class="subnav-hero-headline">Cerámica Padilla Padilla</h1>
-      <% end %>
-      <ul class="subnav-hero-subnav">
+      <div class="header-for-dummies">
+        <i class="fas fa-phone-alt"></i> (+34) 953 678 087
+        |
+        <a target="_blank" class="facebook" href="https://www.facebook.com/ceramica.padillapadilla.7"><i class="fab fa-facebook-square"></i></a>
+      </div>
+      <div class="logo-and-title">
+        <% link_to "/" do %>
+          <%= image_tag "white-logo.png", class: "logo" %>
+        <% end %>
+        <% link_to "/" do %>
+          <h1 class="subnav-hero-headline">Cerámica Padilla Padilla</h1>
+        <% end %>
+      </div>
+      <nav class="subnav-hero-subnav"><ul>
         <li><a href="/" class="<%= "is-active" if current_page.data.active_tab == "home" %>">Inicio</a></li>
         <li><a href="/catalogo" class="<%= "is-active" if current_page.data.active_tab == "catalog" %>">Cat&aacute;logo</a></li>
         <li><a href="/quienes-somos" class="<%= "is-active" if current_page.data.active_tab == "who" %>">¿Qui&eacute;nes somos?</a></li>
         <li><a href="/donde-estamos" class="<%= "is-active" if current_page.data.active_tab == "where" %>">¿D&oacute;nde estamos?</a></li>
         <li><a href="/contacto" class="<%= "is-active" if current_page.data.active_tab == "contact" %>">Contacto</a></li>
-      </ul>
+      </ul></nav>
       <button href="#" class="overlay-nav-menu-toggle"><span class="hamburger"></span></button>
     </header>
 
-    <div class="container">
+    <main class="container">
       <%= yield %>
-    </div>
+    </main>
 
     <footer class="cpp">
       <%= image_tag "red-logo.png" %>
