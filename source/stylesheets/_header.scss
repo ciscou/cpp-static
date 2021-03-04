@@ -147,6 +147,7 @@ a.facebook:hover, a.facebook:focus {
 
   & .hamburger {
     position: relative;
+    transform: translateY(-9px);
   }
 
   & .hamburger,
@@ -157,7 +158,7 @@ a.facebook:hover, a.facebook:focus {
     height: 3px;
     background: $color-white;
     border-radius: 1px;
-    transition: transform 250ms ease;
+    transition: transform 250ms ease, opacity 250ms ease;
   }
 
   & .hamburger::before,
@@ -168,11 +169,11 @@ a.facebook:hover, a.facebook:focus {
   }
 
   & .hamburger::before {
-    top: -9px;
+    top: 9px;
   }
 
   & .hamburger::after {
-    top: 9px;
+    top: 18px;
   }
 }
 
@@ -191,11 +192,11 @@ a.facebook:hover, a.facebook:focus {
 }
 
 .subnav-hero-subnav.is-open ~ .overlay-nav-menu-toggle .hamburger::before {
-  transform: rotate(90deg) translateX(9px);
+  opacity: 0;
 }
 
 .subnav-hero-subnav.is-open ~ .overlay-nav-menu-toggle .hamburger::after {
-  transform: translateY(-9px);
+  transform: rotate(-90deg) translateX(18px);
 }
 
 @media (min-width: 800px) {
