@@ -30,7 +30,11 @@
       onslide: function(index, slide) {
         // console.log('slide', index, slide);
         var productURL = $(this.list[index]).data("product-url");
-        $("#blueimp-gallery .caption a").attr("href", productURL);
+        if(productURL) {
+          $("#blueimp-gallery .caption a").show().attr("href", productURL);
+        } else {
+          $("#blueimp-gallery .caption a").hide();
+        }
       },
       onslideend: function(index, slide) {
         // console.log('slideend', index, slide);
