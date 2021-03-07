@@ -1,0 +1,6 @@
+<h3>
+  Disponible para todos los
+  <%= link_to another_category.name, "/catalogo/#{another_category.slug}/productos" %>
+</h3>
+
+<%= partial "photos_small", locals: { products: another_category.products } %>

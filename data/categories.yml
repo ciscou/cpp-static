@@ -7,6 +7,7 @@
     aprovecha cualquier lugar para poner jardineras, macetas de pared y maceteros.\r\n\r\nEstos
     son los productos que fabricamos en la sección de jardinería.\r\n\r\nPerfectos
     para su jardín, casa o chalet."
+  decorations_category_slug: decoraciones-de-jardineria
   products:
   - id: 368
     slug: modelos-macetas-de-jardineria-decorada
@@ -146,6 +147,7 @@
   name: Decoraciones de jardinería
   description: "Estas son las decoraciones disponibles para todos los modelos de jardinería.\r\n\r\nTodos
     nuestros productos están pintados a mano."
+  models_category_slug: modelos-de-jardineria
   products:
   - id: 704
     slug: maceta-25-5x22-5cm
@@ -472,6 +474,7 @@
   name: Modelos de menaje..
   description: "Estos son los modelos de menaje que fabricamos.\r\n\r\nEstos modelos
     se pueden ver en otros decorados en la sección \"Decoraciones de menaje\". "
+  decorations_category_slug: decoraciones-de-menaje
   products:
   - id: 705
     slug: ref-571-y-572
@@ -732,6 +735,7 @@
   name: Decoraciones de menaje
   description: "Estas son las decoraciones disponibles para todos los modelos de menaje.\r\n\r\nTodos
     nuestros productos están pintados a mano.\r\n\r\n\r\n"
+  models_category_slug: modelos-de-menaje
   products:
   - id: 707
     slug: bandejas-ref-571-y-572

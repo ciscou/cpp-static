@@ -4,15 +4,6 @@ active_tab: catalog
 
 <h2><%= category.name %></h2>
 
-<div class="photos">
-  <% category.products.each do |product| %>
-    <div class="photo-wrapper">
-      <% link_to image_path("product/#{product.id}/#{product.slug}.jpg"), title: product.name, class: "photo thumbnail", data: { product_url: "/catalogo/#{category.slug}/productos/#{product.id}-#{product.slug}" } do %>
-        <%= image_tag "product/#{product.id}/thumb/#{product.slug}.jpg", alt: product.name %>
-        <span class="caption"><%= product.name %></span>
-      <% end %>
-    </div>
-  <% end %>
-</div>
+<%= partial "photos", locals: { products: category.products } %>
 
 <%= link_to "Volver al catálogo", "/catalogo", class: "button expanded" %>

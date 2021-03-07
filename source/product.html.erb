@@ -24,80 +24,12 @@ active_tab: catalog
     </div>
   </div>
 
-  <% if category.slug == "modelos-de-jardineria" %>
-    <% another_category = data.categories.detect { |c| c.slug == "decoraciones-de-jardineria" } %>
-
-    <h3>
-      Disponible en todas las
-      <%= link_to another_category.name, "/catalogo/#{another_category.slug}/productos" %>
-    </h3>
-
-    <div class="photos small">
-      <% another_category.products.each do |product| %>
-        <div class="photo-wrapper">
-          <% link_to image_path("product/#{product.id}/#{product.slug}.jpg"), title: product.name, class: "photo" do %>
-            <%= image_tag "product/#{product.id}/thumb/#{product.slug}.jpg", alt: product.name %>
-          <% end %>
-        </div>
-      <% end %>
-    </div>
+  <% if category.decorations_category_slug %>
+    <%= partial "decorations_category", locals: { another_category: data.categories.detect { |c| c.slug == category.decorations_category_slug } } %>
   <% end %>
 
-  <% if category.slug == "decoraciones-de-jardineria" %>
-    <% another_category = data.categories.detect { |c| c.slug == "modelos-de-jardineria" } %>
-
-    <h3>
-      Disponible para todos los
-      <%= link_to another_category.name, "/catalogo/#{another_category.slug}/productos" %>
-    </h3>
-
-    <div class="photos small">
-      <% another_category.products.each do |product| %>
-        <div class="photo-wrapper">
-          <% link_to image_path("product/#{product.id}/#{product.slug}.jpg"), title: product.name, class: "photo" do %>
-            <%= image_tag "product/#{product.id}/thumb/#{product.slug}.jpg", alt: product.name %>
-          <% end %>
-        </div>
-      <% end %>
-    </div>
-  <% end %>
-
-  <% if category.slug == "modelos-de-menaje" %>
-    <% another_category = data.categories.detect { |c| c.slug == "decoraciones-de-menaje" } %>
-
-    <h3>
-      Disponible en todas las
-      <%= link_to another_category.name, "/catalogo/#{another_category.slug}/productos" %>
-    </h3>
-
-    <div class="photos small">
-      <% another_category.products.each do |product| %>
-        <div class="photo-wrapper">
-          <% link_to image_path("product/#{product.id}/#{product.slug}.jpg"), title: product.name, class: "photo" do %>
-            <%= image_tag "product/#{product.id}/thumb/#{product.slug}.jpg", alt: product.name %>
-          <% end %>
-        </div>
-      <% end %>
-    </div>
-  <% end %>
-
-  <% if category.slug == "decoraciones-de-menaje" %>
-    <% another_category = data.categories.detect { |c| c.slug == "modelos-de-menaje" } %>
-
-    <h3>
-      Disponible para todos los
-      <%= link_to another_category.name, "/catalogo/#{another_category.slug}/productos" %>
-    </h3>
-
-    <div class="photos small">
-      <% another_category.products.each do |product| %>
-        <div class="photo-wrapper">
-          <% link_to image_path("product/#{product.id}/#{product.slug}.jpg"), title: product.name, class: "photo" do %>
-            <%= image_tag "product/#{product.id}/thumb/#{product.slug}.jpg", alt: product.name %>
-          <% end %>
-        </div>
-      <% end %>
-    </div>
+  <% if category.models_category_slug %>
+    <%= partial "models_category", locals: { another_category: data.categories.detect { |c| c.slug == category.models_category_slug } } %>
   <% end %>
 
   <%= link_to "Volver a #{category.name}", "/catalogo/#{category.slug}/productos", class: "button expanded" %>
