@@ -5,8 +5,8 @@
   margin-bottom: 1rem;
 
   &.small {
+    grid-gap: 0.5rem;
     grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
-    margin-bottom: 0.5rem;
   }
 }
 
