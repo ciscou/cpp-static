@@ -9,8 +9,8 @@ active_tab: catalog
 
     <div class="photo-and-description">
       <div class="photo">
-        <% link_to "/catalogo/#{category.slug}/productos" do %>
-          <%= image_tag "category/#{category.id}/#{category.slug}.jpg", class: "full-width" %>
+        <% link_to category_products_path(category) do %>
+          <%= image_tag category_photo_path(category), class: "full-width" %>
         <% end %>
       </div>
       <div class="description">
@@ -18,6 +18,6 @@ active_tab: catalog
       </div>
     </div>
 
-    <%= link_to "Ver #{category.name}", "/catalogo/#{category.slug}/productos", class: "button large expanded" %>
+    <%= link_to "Ver #{category.name}", category_products_path(category), class: "button large expanded" %>
   </div>
 <% end %>

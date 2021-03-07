@@ -5,8 +5,8 @@ active_tab: catalog
 <% content_for :og do %>
   <meta property="og:title" content="<%= product.name %>">
   <meta property="og:description" content="<%= product.description %>">
-  <meta property="og:image" content="https://ceramicapadilla.es<%= image_path("product/#{product.id}/#{product.slug}.jpg") %>">
-  <meta property="og:url" content="https://ceramicapadilla.es/catalogo/<%= category.slug %>/productos/<%= product.id %>-<%= product.slug %>">
+  <meta property="og:image" content="https://ceramicapadilla.es<%= image_path(product_photo_path(product)) %>">
+  <meta property="og:url" content="https://ceramicapadilla.es<%= category_product_path(category, product) %>">
   <meta name="twitter:card" content="summary_large_image">
   <meta property="og:site_name" content="Cerámica Padilla Padilla">
   <meta name="twitter:image:alt" content="<%= product.name %>">
@@ -17,7 +17,7 @@ active_tab: catalog
 
   <div class="photo-and-description">
     <div class="photo">
-      <%= image_tag "product/#{product.id}/#{product.slug}.jpg", class: "full-width" %>
+      <%= image_tag product_photo_path(product), class: "full-width" %>
     </div>
     <div class="description">
       <%= simple_format product.description %>
@@ -32,5 +32,5 @@ active_tab: catalog
     <%= partial "models_category", locals: { another_category: data.categories.detect { |c| c.slug == category.models_category_slug } } %>
   <% end %>
 
-  <%= link_to "Volver a #{category.name}", "/catalogo/#{category.slug}/productos", class: "button expanded" %>
+  <%= link_to "Volver a #{category.name}", category_products_path(category), class: "button expanded" %>
 </div>

@@ -1,8 +1,8 @@
 <div class="photos small">
   <% products.each do |product| %>
     <div class="photo-wrapper">
-      <% link_to image_path("product/#{product.id}/#{product.slug}.jpg"), title: product.name, class: "photo" do %>
-        <%= image_tag "product/#{product.id}/thumb/#{product.slug}.jpg", alt: product.name %>
+      <% link_to image_path(product_photo_path(product)), title: product.name, class: "photo" do %>
+        <%= image_tag product_thumbnail_path(product), alt: product.name %>
       <% end %>
     </div>
   <% end %>

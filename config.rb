@@ -55,6 +55,26 @@ helpers do
       product.id
     end
   end
+
+  def category_products_path(category)
+    "/catalogo/#{category.slug}/productos"
+  end
+
+  def category_product_path(category, product)
+    "/catalogo/#{category.slug}/productos/#{product.id}-#{product.slug}"
+  end
+
+  def category_photo_path(category)
+    "category/#{category.id}/#{category.slug}.jpg"
+  end
+
+  def product_photo_path(product)
+    "product/#{product.id}/#{product.slug}.jpg"
+  end
+
+  def product_thumbnail_path(product)
+    "product/#{product.id}/thumb/#{product.slug}.jpg"
+  end
 end
 
 # Build-specific configuration

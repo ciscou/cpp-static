@@ -4,6 +4,6 @@ active_tab: catalog
 
 <h2><%= category.name %></h2>
 
-<%= partial "photos", locals: { products: category.products } %>
+<%= partial "photos", locals: { products: category.products.each { |p| p.category_id = category.id } } %>
 
 <%= link_to "Volver al catálogo", "/catalogo", class: "button expanded" %>
