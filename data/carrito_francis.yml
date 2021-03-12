@@ -87,7 +87,7 @@
   product_id: 203
   ref: 316
   design: retro azul
-  qty: 1
+  qty: 2
   dimensions: ???
   usage: vermouth
 - category_slug: modelos-de-menaje
@@ -122,7 +122,7 @@
   product_id: 616
   ref: 112
   design: CT
-  qty: 1
+  qty: 2
   dimensions: 10x28
   usage: Posacucharas
 - category_slug: decoraciones-de-menaje
