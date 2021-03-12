@@ -1,0 +1,28 @@
+%h2 Carrito Francis
+
+- data.carrito_francis.each do |cart_item|
+  - category = data.categories.detect { |c| c.slug == cart_item.category_slug }
+  - product = category.products.detect { |p| p.id == cart_item.product_id }
+
+  .product-wrapper
+    %h3= product.name
+
+    .photo-and-description
+      .photo
+        = image_tag product_photo_path(product), class: "full-width"
+      .description
+        %p
+          %strong Ref:
+          = cart_item.ref
+          %br
+          %strong Tama&ntilde;o:
+          = cart_item.dimensions
+          %br
+          %strong Decoraci&oacute;n:
+          = cart_item.design
+          %br
+          %strong Cantidad:
+          = cart_item.qty
+          %br
+          %strong Uso:
+          = cart_item.usage

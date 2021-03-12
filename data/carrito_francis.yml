@@ -1,0 +1,134 @@
+---
+- category_slug: modelos-de-jardineria
+  product_id: 285
+  ref: 2505
+  design: lineas
+  qty: 4
+  dimensions: 30x13
+  usage: aromáticas
+- category_slug: modelos-de-jardineria
+  product_id: 285
+  ref: 2504
+  design: lineas
+  qty: 4
+  dimensions: 40x13
+  usage: aromáticas
+- category_slug: modelos-de-jardineria
+  product_id: 278
+  ref: 4213
+  design: rameado verde
+  qty: 4
+  dimensions: 31x26
+  usage: fresas
+- category_slug: modelos-de-jardineria
+  product_id: 278
+  ref: 4212
+  design: rameado celeste
+  qty: 2
+  dimensions: 39x32
+  usage: arándonos, margaritas, ???
+- category_slug: modelos-de-jardineria
+  product_id: 278
+  ref: 4212
+  design: rameado rojo
+  qty: 2
+  dimensions: 39x32
+  usage: arándonos, margaritas, ???
+- category_slug: modelos-de-jardineria
+  product_id: 278
+  ref: 4212
+  design: rameado naranja
+  qty: 2
+  dimensions: 39x32
+  usage: arándonos, margaritas, ???
+- category_slug: modelos-de-jardineria
+  product_id: 278
+  ref: 4211
+  design: colores pincelados lisos
+  qty: 4
+  dimensions: 50x39
+  usage: limoneros, ...
+- category_slug: modelos-de-jardineria
+  product_id: 280
+  ref: 1416
+  design: barro blanco
+  qty: 10
+  dimensions: 14x14
+  usage: cactus
+- category_slug: modelos-de-jardineria
+  product_id: 364
+  ref: ???
+  design: multiflor
+  qty: 5
+  dimensions: unos 25cm
+  usage: aloe, cintas
+- category_slug: cazuelas
+  product_id: 121
+  ref: ???
+  design: liso
+  qty: 1
+  dimensions: 32cm
+  usage: horno
+- category_slug: modelos-de-menaje
+  product_id: 597
+  ref: ???
+  design: CT
+  qty: 4
+  dimensions: unos 16cm
+  usage: cremas, postres, fruta, ...
+- category_slug: modelos-de-menaje
+  product_id: 216
+  ref: 39
+  design: rameado celeste
+  qty: 2
+  dimensions: ???
+  usage: Cafes e infusiones
+- category_slug: modelos-de-menaje
+  product_id: 203
+  ref: 316
+  design: retro azul
+  qty: 1
+  dimensions: ???
+  usage: vermouth
+- category_slug: modelos-de-menaje
+  product_id: 200
+  ref: ???
+  design: rameado verde
+  qty: 1
+  dimensions: unos 25cm
+  usage: ensaladas
+- category_slug: combinado-de-productos-y-decorados-de-menaje
+  product_id: 533
+  ref: 350
+  design: picual
+  qty: 5
+  dimensions: ???
+  usage: aceitunas, regalos
+- category_slug: modelos-de-menaje
+  product_id: 215
+  ref: 6109
+  design: rameado naranja
+  qty: 1
+  dimensions: ???
+  usage: vuelcatortillas
+- category_slug: modelos-de-menaje
+  product_id: 214
+  ref: 116
+  design: CT
+  qty: 1
+  dimensions: ???
+  usage: Estropajero
+- category_slug: decoraciones-de-menaje
+  product_id: 616
+  ref: 112
+  design: CT
+  qty: 1
+  dimensions: 10x28
+  usage: Posacucharas
+- category_slug: decoraciones-de-menaje
+  product_id: 433
+  ref: ???
+  design: alhambra azul
+  qty: 1
+  dimensions: ???
+  usage: padres de Jenny
