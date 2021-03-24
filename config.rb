@@ -1,6 +1,8 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+activate :sitemap, gzip: false, hostname: "https://ceramicapadilla.es"
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end

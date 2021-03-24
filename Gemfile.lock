@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/matsu911/middleman-sitemap
+  revision: 69f107b058d2ce1e8aa8695a97567c4a763e9367
+  specs:
+    middleman-sitemap (0.0.13)
+      middleman-core (>= 3.2.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -101,6 +108,7 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
+  middleman-sitemap!
   rack (~> 1.6.13)
   tzinfo-data
   wdm (~> 0.1)
